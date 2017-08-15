@@ -131,11 +131,15 @@ export default {
     border-radius: .5em;
   }
 }
+
 .see-map{
   line-height: 2;
   font-size: 12px;
   color: #0096D9;
+  background-color: #eee;
+  padding: .3em .5em;
   text-decoration: none;
+  border-radius: .25em;
 }
 </style>
 <style>  
