@@ -12,6 +12,21 @@ var router = new Router({
       component: Home
     },
     {
+      path: '/rumah-sakit-umum',
+      name: 'rs-umum',
+      component: view('RsUmum')
+    },
+    {
+      path: '/rumah-sakit-khusus',
+      name: 'rs-khusus',
+      component: view('RsKhusus')
+    },
+    {
+      path: '/puskesmas',
+      name: 'puskesmas',
+      component: view('Puskesmas')
+    },
+    {
       path: '/about',
       name: 'About',
       component: view('About')

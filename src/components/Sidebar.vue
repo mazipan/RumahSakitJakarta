@@ -13,6 +13,24 @@
         </li>
 
         <li class="sidebar__item">
+          <router-link to="/rumah-sakit-umum" @click.native="navigateTo" class="sidebar__link">
+            <i class="fa fa-hospital-o"></i> RS Umum
+          </router-link>
+        </li>
+
+        <li class="sidebar__item">
+          <router-link to="/rumah-sakit-khusus" @click.native="navigateTo" class="sidebar__link">
+            <i class="fa fa-wheelchair"></i> RS Khusus
+          </router-link>
+        </li>
+
+        <li class="sidebar__item">
+          <router-link to="/puskesmas" @click.native="navigateTo" class="sidebar__link">
+            <i class="fa fa-medkit"></i> Puskesmas
+          </router-link>
+        </li>
+
+        <li class="sidebar__item">
           <router-link to="/about" @click.native="navigateTo" class="sidebar__link">
             <i class="fa fa-question-circle"></i> Tentang RumahSakitJakarta
           </router-link>
