@@ -69,9 +69,10 @@ export default {
     position: relative;
     display: block;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 200;
     padding: 10px;
+    margin-bottom: 10px;
     color: $themes-inverse;
     background-color: $themes;
 
