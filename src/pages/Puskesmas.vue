@@ -1,8 +1,6 @@
 <template>
   <div class="grid__row">
 
-    <tab-block tabActive="puskesmas"></tab-block>
-
     <div class="search">
       <input class="search__text" type="text" 
         name="Search" 
@@ -17,8 +15,7 @@
     <ul class="rs">
       <li v-for="item in filteredList" class="item">
         <div class="left">
-          <img class="icon" 
-               v-lazy="'/RumahSakitJakarta/static/images/rs-puskesmas.png'">        
+          <i class="icon fa fa-medkit"></i>         
         </div>
         <div class="right">
           <div class="title" 
@@ -27,7 +24,23 @@
           <div class="small-text"
                v-html="highlightText(item.properties.location.alamat, searchText)">
           </div>
-          <div>
+
+          <div class="telp" v-if="item.properties.telepon.length > 0  && item.properties.telepon[0] !== ''">
+              <i class="fa fa-phone-square" aria-hidden="true"></i>  
+              <b v-for="(telepon, index) in item.properties.telepon"
+                  class="telp-item"> 
+                {{telepon}}
+              </b>
+          </div>
+          <div class="telp faximile" v-if="item.properties.faximile.length > 0 && item.properties.faximile[0] !== ''">
+              <i class="fa fa-fax" aria-hidden="true"></i>  
+              <b v-for="(faximile, index) in item.properties.faximile"
+                  class="telp-item"> 
+                {{faximile}}
+              </b>
+          </div>
+
+          <div class="see-map-wrapper">
              <a 
               :href="'https://www.google.com/maps/search/?api=1&query=' + 
               item.properties.location.latitude + ',' + item.properties.location.longitude" 
@@ -95,16 +108,25 @@ export default {
   list-style: none;
 }
 .item{
-  padding: 10px;
+  padding: 1em 0;
   display: table;
+  border: 1px solid #ddd;
+  width: 100%;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 0 1px 3px 0 rgba(32, 33, 39, 0.12);
+  margin: .5em 0;
 }
 .left{
   display: table-cell;
   vertical-align: middle;
+  width: 120px;
+  text-align: center;
 
   .icon{
     width: 50px;
     margin-right: 10px;
+    font-size: 50px;
   }
 }
 .right{
@@ -132,6 +154,26 @@ export default {
   }
 }
 
+.telp{
+  line-height: 1.5;
+  display: inline-block;
+
+  i{
+    vertical-align: middle;
+    color: #727171;
+    font-size: 16px;
+  }
+
+  &-item{
+    color: #727171;
+    padding: .2em .5em;
+    background-color: #eee;
+    font-size: 12px;
+    border-radius: .25em;
+    margin-right: .25em;
+    vertical-align: middle;
+  }
+}
 .see-map{
   line-height: 2;
   font-size: 12px;
@@ -140,6 +182,10 @@ export default {
   padding: .3em .5em;
   text-decoration: none;
   border-radius: .25em;
+
+  &-wrapper{
+    margin-top: 5px;
+  }
 }
 </style>
 <style>  

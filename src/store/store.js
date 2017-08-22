@@ -3,6 +3,7 @@ import api from 'src/api'
 export const state = {
   isShowSidebar: false,
   loading: false,
+  tabActive: 'home',
   puskesmasList: [],
   rsuList: [],
   rskList: []
@@ -14,6 +15,9 @@ export const getters = {
   },
   isLoading: (state) => {
     return state.loading
+  },
+  tabActive: (state) => {
+    return state.tabActive
   },
   puskesmasList: (state) => {
     return state.puskesmasList
@@ -32,6 +36,9 @@ export const mutations = {
   },
   setLoading (state, value) {
     state.loading = value
+  },
+  setTabActive (state, value) {
+    state.tabActive = value
   },
   setPuskesmasList (state, value) {
     state.puskesmasList = value
@@ -89,5 +96,8 @@ export const actions = {
     }, () => {
       commit('setLoading', false)
     }, null)
+  },
+  updateTabActive ({commit}, tabActive) {
+    commit('setTabActive', tabActive)
   }
 }

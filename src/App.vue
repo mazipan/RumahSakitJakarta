@@ -10,7 +10,10 @@
       <img src="/RumahSakitJakarta/static/images/loading.gif">
     </div>
 
-    <div class="main">      
+    <div class="main"> 
+
+      <tab-block :tabActive="tabActive"></tab-block>
+
       <transition name="fade" mode="out-in">
         <keep-alive>
           <router-view></router-view>
@@ -25,15 +28,17 @@
 import { mapGetters } from 'vuex'
 import Sidebar from 'components/Sidebar'
 import HeaderSection from 'components/HeaderSection'
+import TabBlock from 'components/TabBlock'
 
 export default {
   name: 'app',
   components: {
     Sidebar, 
-    HeaderSection
+    HeaderSection,
+    TabBlock
   },
   computed: {
-    ...mapGetters(['isShowSidebar', 'isLoading'])
+    ...mapGetters(['isShowSidebar', 'isLoading', 'tabActive'])
   },
   created () {
 

@@ -2,27 +2,30 @@
   <aside class="tab"> 
     <ul class="tab__wrapper"> 
       <li class="tab__item">
-        <router-link to="/rumah-sakit-umum" 
+        <a href="javascript:void(0)" 
+            @click="changeTabActive('rumah-sakit-umum')" 
             class="tab__link" 
-            :class="{'tab__link--active': tabActive === 'rsu'}">
+            :class="{'tab__link--active': tabActive === 'rumah-sakit-umum'}">
           <i class="fa fa-hospital-o"></i> RS Umum
-        </router-link>
+        </a>
       </li>
 
       <li class="tab__item">
-        <router-link to="/rumah-sakit-khusus" 
+        <a href="javascript:void(0)" 
+            @click="changeTabActive('rumah-sakit-khusus')" 
             class="tab__link" 
-            :class="{'tab__link--active': tabActive === 'rsk'}">
+            :class="{'tab__link--active': tabActive === 'rumah-sakit-khusus'}">
           <i class="fa fa-wheelchair"></i> RS Khusus
-        </router-link>
+        </a>
       </li>
 
       <li class="tab__item">
-        <router-link to="/puskesmas" 
+        <a href="javascript:void(0)" 
+            @click="changeTabActive('puskesmas')" 
             class="tab__link" 
             :class="{'tab__link--active': tabActive === 'puskesmas'}">
           <i class="fa fa-medkit"></i> Puskesmas
-        </router-link>
+        </a>
       </li>
     </ul>
   </aside>
@@ -32,14 +35,20 @@
 import { mapGetters } from 'vuex'
 export default {
   name: 'TabBlock',
-  props: ['tabActive'],
   data () {
     return {
     }
   },
   computed: { 
+    ...mapGetters(['tabActive'])
   },
   methods: {
+    changeTabActive: function (tabName) {
+      this.$store.dispatch('updateTabActive', tabName)
+      if (!tabName) {
+        this.$router.push('/')
+      } else this.$router.push('/' + tabName)
+    }
   }
 }
 </script>
@@ -62,14 +71,22 @@ export default {
     text-decoration: none;
     font-size: 18px;
     font-weight: 200;
-    padding: 10px 30px;
-    margin: 5px;
+    padding: 10px;
     color: $themes-inverse;
     background-color: $themes;
 
     &--active{
       background-color: darken($themes, 10%);
       font-weight: bold;
+    }
+
+    &--left{
+      border-bottom-left-radius: .5em;
+      border-top-left-radius: .5em;
+    }
+    &--right{
+      border-bottom-right-radius: .5em;
+      border-top-right-radius: .5em;
     }
 
   }

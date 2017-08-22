@@ -1,11 +1,9 @@
 <template>
   <div class="grid__row home">
 
-    <h1>Daftar Rumah Sakit Umum, Khusus dan Puskesmas di Jakarta built with VueJS</h1>
-    <h5>Anda bisa memilih salah satu daftar yang ingin dilihat berikut :</h5>
+    <h1>Selamat datang di Aplikasi Daftar Rumah Sakit Umum, Khusus dan Puskesmas di Jakarta</h1>
+    <h4>Silahkan pilih daftar yang ingin Anda cari dengan meng-klik salah satu tab diatas.</h4>
     
-    <tab-block></tab-block>
-
   </div>
 </template>
 
