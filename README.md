@@ -30,6 +30,13 @@ https://api.jakarta.go.id/
 + Folder [test](https://github.com/mazipan/explore-github/tree/master/test/unit) is used for unit test all `Vue Component`
 + Folder [www](https://github.com/mazipan/explore-github/tree/master/www) is setup for `pwa` need, like `manifest.json`, `sw.js`, etc
 
+### Development
++ Checkout Code : `git checkout https://github.com/mazipan/RumahSakitJakarta.git`
++ Install dependency : `npm install` or `yarn install`
++ Run in local : `npm run dev`
++ Run unit test : `npm run unit`
++ Run ES linting : `npm run lint` 
++ Build for production : `npm run dist` then checkout branch `gh-pages` and copy folder `dist` to `root` directory
 
 **Hope will usefull for you all.**
 
