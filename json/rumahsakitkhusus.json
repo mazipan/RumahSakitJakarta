@@ -1,0 +1,2034 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "nama_rsk": "Budi Kemuliaan ",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Budi Kemuliaan No. 25 ",
+                    "latitude": -6.180302,
+                    "longitude": 106.81826
+                },
+                "kode_pos": 10110,
+                "telepon": [
+                    "3842828"
+                ],
+                "faximile": [
+                    "3501012"
+                ],
+                "website": "www.rsbbudikemiaan.com",
+                "email": "rsbbudi@indo.net.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173080,
+                "kode_kelurahan": 3173080003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.81826,
+                    -6.180302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "nama_rsk": "Profesor Nizar ",
+                "jenis_rsk": "Rumah Sakit Khusus Telinga Hidung Tenggorokan",
+                "location": {
+                    "alamat": "Jl. Kesehatan No. 9",
+                    "latitude": -6.171435,
+                    "longitude": 106.81459
+                },
+                "kode_pos": 10160,
+                "telepon": [
+                    "3843596",
+                    "3503435"
+                ],
+                "faximile": [
+                    "34834982"
+                ],
+                "website": null,
+                "email": "rsprofnizar@yahoo.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173080,
+                "kode_kelurahan": 3173080002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.81459,
+                    -6.171435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "nama_rsk": "TNI-AL R.E. Martadinata",
+                "jenis_rsk": "Rumah Sakit Khusus Gigi & Mulut",
+                "location": {
+                    "alamat": "Jl. Farmasi No. 1",
+                    "latitude": -6.211591,
+                    "longitude": 106.808441
+                },
+                "kode_pos": 10210,
+                "telepon": [
+                    "5733026"
+                ],
+                "faximile": [
+                    "5732701"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173010,
+                "kode_kelurahan": 3173010002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.808441,
+                    -6.211591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "nama_rsk": "Bina Estetika",
+                "jenis_rsk": "Rumah Sakit Khusus Bedah",
+                "location": {
+                    "alamat": "Jl. Teuku Cik Ditiro No. 41",
+                    "latitude": -6.197392,
+                    "longitude": 106.836792
+                },
+                "kode_pos": 10310,
+                "telepon": [
+                    "3909393"
+                ],
+                "faximile": [
+                    "3155258"
+                ],
+                "website": null,
+                "email": "binaes@rad.net.id, rsbe-binaestetika@ yahoo.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.836792,
+                    -6.197392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "nama_rsk": "Jakarta Eye Center",
+                "jenis_rsk": "Rumah Sakit Khusus Mata",
+                "location": {
+                    "alamat": "Jl. Teuku Cik Ditiro No. 46  M",
+                    "latitude": -6.198522,
+                    "longitude": 106.836884
+                },
+                "kode_pos": 10310,
+                "telepon": [
+                    "335600",
+                    "3107434"
+                ],
+                "faximile": [
+                    "3904601"
+                ],
+                "website": "www.jakarta-eye-center.com",
+                "email": "cheyra@jakarta_eye_center.com, jec@jakarta-eye-center.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.836884,
+                    -6.198522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "nama_rsk": "Proklamasi",
+                "jenis_rsk": "Rumah Sakit Khusus Telinga Hidung Tenggorokan",
+                "location": {
+                    "alamat": "Jalan  Proklamasi  Nomor 43 ",
+                    "latitude": -6.201966,
+                    "longitude": 106.84716
+                },
+                "kode_pos": 10320,
+                "telepon": [
+                    "3900002"
+                ],
+                "faximile": [
+                    "3900947"
+                ],
+                "website": "www.rs-proklamasi.co.id",
+                "email": "admin@rs-proklamasi.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.84716,
+                    -6.201966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "nama_rsk": "Tambak",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Tambak No. 18",
+                    "latitude": -6.206272,
+                    "longitude": 106.848473
+                },
+                "kode_pos": 10320,
+                "telepon": [
+                    "2303444"
+                ],
+                "faximile": [
+                    "3902550"
+                ],
+                "website": "www.rsiatambak.com",
+                "email": "we_care@rsiatambak",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.848473,
+                    -6.206272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "nama_rsk": "YPK Mandiri",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Gereja Theresia No. 22",
+                    "latitude": -6.191115,
+                    "longitude": 106.827904
+                },
+                "kode_pos": 10350,
+                "telepon": [
+                    "3909725"
+                ],
+                "faximile": [
+                    "3909806"
+                ],
+                "website": "www.rsiaypkmandiri.com",
+                "email": "marketing@rsiaypkmandiri.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.827904,
+                    -6.191115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9,
+                "nama_rsk": "Bunda Jakarta",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Teuku Cik Ditiro No. 28",
+                    "latitude": -6.196026,
+                    "longitude": 106.836517
+                },
+                "kode_pos": 10350,
+                "telepon": [
+                    "3909692"
+                ],
+                "faximile": [
+                    "3101077"
+                ],
+                "website": "www.bunda.co.id",
+                "email": "bundahospital@bunda.co.id, rsbunda@mweb.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.836517,
+                    -6.196026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 10,
+                "nama_rsk": "FKG Universitas Indonesia",
+                "jenis_rsk": "Rumah Sakit Khusus Gigi & Mulut",
+                "location": {
+                    "alamat": "Jl. Salemba Raya No.4",
+                    "latitude": -6.194264,
+                    "longitude": 106.848038
+                },
+                "kode_pos": 10430,
+                "telepon": [
+                    "0213916858"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": "rsgm_fkgui@yahoo.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.848038,
+                    -6.194264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 11,
+                "nama_rsk": "Salemba Satu Medika",
+                "jenis_rsk": "Rumah Sakit Khusus Bedah",
+                "location": {
+                    "alamat": "Jl. Salemba I  No. 11 - 13",
+                    "latitude": -6.198886,
+                    "longitude": 106.850616
+                },
+                "kode_pos": 10430,
+                "telepon": [
+                    "3913336"
+                ],
+                "faximile": [
+                    "3926687"
+                ],
+                "website": "www.ssmedika.co.id",
+                "email": "info@ssmedika.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.850616,
+                    -6.198886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 12,
+                "nama_rsk": "Berkat Ibu  (tidak melakukan keg.opr. sejak 25-7-2014)",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Sumur Batu Raya Blok A3 No. 13",
+                    "latitude": -6.163449,
+                    "longitude": 106.865448
+                },
+                "kode_pos": 10640,
+                "telepon": [
+                    "4209007",
+                    "4252671"
+                ],
+                "faximile": [
+                    "42800964"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173060,
+                "kode_kelurahan": 3173060003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.865448,
+                    -6.163449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 13,
+                "nama_rsk": "Firdaus",
+                "jenis_rsk": "Rumah Sakit Khusus Paru",
+                "location": {
+                    "alamat": "Jl. Siak  J 5  No. 14  -  Komplek Bea Cukai",
+                    "latitude": -6.155844,
+                    "longitude": 106.923187
+                },
+                "kode_pos": 14140,
+                "telepon": [
+                    "4407322"
+                ],
+                "faximile": [
+                    "4400063"
+                ],
+                "website": null,
+                "email": "aninurdiyana3@gmail.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175060,
+                "kode_kelurahan": 3175060001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.923187,
+                    -6.155844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 14,
+                "nama_rsk": "Santo Yusuf",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Ganggeng Raya No.9",
+                    "latitude": -6.117114,
+                    "longitude": 106.881912
+                },
+                "kode_pos": 14330,
+                "telepon": [
+                    "43931880"
+                ],
+                "faximile": [
+                    "4361330"
+                ],
+                "website": null,
+                "email": "rsbst.yusuf@gmail.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.881912,
+                    -6.117114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 15,
+                "nama_rsk": "Prof.Sulianti Saroso",
+                "jenis_rsk": "Rumah Sakit Khusus Penyakit Infeksi",
+                "location": {
+                    "alamat": "Jl. Sunter Permai Raya",
+                    "latitude": -6.130169,
+                    "longitude": 106.861916
+                },
+                "kode_pos": 14340,
+                "telepon": [
+                    "6506559-67"
+                ],
+                "faximile": [
+                    "6401411"
+                ],
+                "website": "www.rspi-suliantisaroso.com",
+                "email": "infi@rspi-suliantisaroso.co.id",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.861916,
+                    -6.130169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 16,
+                "nama_rsk": "Family",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Pluit Mas I Blok A No. 2A - 5A",
+                    "latitude": -6.133434,
+                    "longitude": 106.790291
+                },
+                "kode_pos": 14450,
+                "telepon": [
+                    "6695639"
+                ],
+                "faximile": [
+                    "6615563"
+                ],
+                "website": "www.rsiafamily.com",
+                "email": "sekretariat@rsiafamily.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175010,
+                "kode_kelurahan": 3175010003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.790291,
+                    -6.133434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 17,
+                "nama_rsk": "Grand Family",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Pantai Indah Selatan I Komp. Elang Laut Boulevard Kav.I No.1",
+                    "latitude": -6.123199,
+                    "longitude": 106.738953
+                },
+                "kode_pos": 14470,
+                "telepon": [
+                    "29673755 - 56"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": "sekretaris@rsiagrandfamily.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175010,
+                "kode_kelurahan": 3175010001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.738953,
+                    -6.123199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 18,
+                "nama_rsk": "Aries",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan  Tanah Sereal VII  Nomor 9",
+                    "latitude": -6.157625,
+                    "longitude": 106.809784
+                },
+                "kode_pos": 11210,
+                "telepon": [
+                    "6496524",
+                    "6497506",
+                    "6396393"
+                ],
+                "faximile": [
+                    "6497506",
+                    "6591410"
+                ],
+                "website": null,
+                "email": "rsia_aries@yahoo.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174050,
+                "kode_kelurahan": 3174050003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.809784,
+                    -6.157625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 19,
+                "nama_rsk": "Dharmais",
+                "jenis_rsk": "Rumah Sakit Khusus Kanker",
+                "location": {
+                    "alamat": "Jl. Letjen S. Parman Kav. 84-86",
+                    "latitude": -6.187047,
+                    "longitude": 106.797493
+                },
+                "kode_pos": 11420,
+                "telepon": [
+                    "5681570"
+                ],
+                "faximile": [
+                    "5681579",
+                    "5681579"
+                ],
+                "website": "www.dharmais.co.id",
+                "email": "elfira_zaenal@yahoo.com, dharmais@dharmais.co.id ",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174030,
+                "kode_kelurahan": 3174030005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.797493,
+                    -6.187047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 20,
+                "nama_rsk": "Harapan Kita",
+                "jenis_rsk": "Rumah Sakit Anak dan Bunda",
+                "location": {
+                    "alamat": "Jl. Letjen S. Parman Kav. 87, Slipi",
+                    "latitude": -6.184582,
+                    "longitude": 106.797806
+                },
+                "kode_pos": 11420,
+                "telepon": [
+                    "5668284"
+                ],
+                "faximile": [
+                    "5601816",
+                    "5601560"
+                ],
+                "website": "www.rsabhk.co.id",
+                "email": "didi.danukusumo@gmail.com, rsabhk@cbn.net.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174030,
+                "kode_kelurahan": 3174030004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.797806,
+                    -6.184582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 21,
+                "nama_rsk": "Harapan Kita ",
+                "jenis_rsk": "Rumah Sakit Khusus Jantung dan Pembuluh Darah",
+                "location": {
+                    "alamat": "Jl. Letjen S. Parman Kav. 87",
+                    "latitude": -6.184582,
+                    "longitude": 106.797806
+                },
+                "kode_pos": 11420,
+                "telepon": [
+                    "5684085",
+                    "5684993"
+                ],
+                "faximile": [
+                    "5684130",
+                    "5684230"
+                ],
+                "website": "www.pjnhk.go.id",
+                "email": "info@pjnhk.go.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174030,
+                "kode_kelurahan": 3174030004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.797806,
+                    -6.184582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 22,
+                "nama_rsk": "FKG Universitas Trisakti",
+                "jenis_rsk": "Rumah Sakit Khusus Gigi & Mulut",
+                "location": {
+                    "alamat": "Jl. Kyai Tapa No. ",
+                    "latitude": -6.167134,
+                    "longitude": 106.796776
+                },
+                "kode_pos": 11440,
+                "telepon": [
+                    ""
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174040,
+                "kode_kelurahan": 3174040003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.796776,
+                    -6.167134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 23,
+                "nama_rsk": "Ibnu Sina",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Nurdin I  No. III  RT.008 / RW.07",
+                    "latitude": -6.160499,
+                    "longitude": 106.796013
+                },
+                "kode_pos": 11450,
+                "telepon": [
+                    "5670139 "
+                ],
+                "faximile": [
+                    "5670118"
+                ],
+                "website": "www.rsiaibnusina.blogspot.com",
+                "email": "rsia.ibnusina@gmail.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174040,
+                "kode_kelurahan": 3174040004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.796013,
+                    -6.160499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 24,
+                "nama_rsk": "Dr.Soeharto Heerdjan",
+                "jenis_rsk": "Rumah Sakit Khusus Jiwa",
+                "location": {
+                    "alamat": "Jl. Prof. Dr. Latumeten No. 1",
+                    "latitude": -6.163072,
+                    "longitude": 106.788712
+                },
+                "kode_pos": 11460,
+                "telepon": [
+                    "5682841- 42 - 43"
+                ],
+                "faximile": [
+                    "5682842",
+                    "5633316"
+                ],
+                "website": "www.rsjsh.com",
+                "email": "keliek_marwanto@yahoo.co.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174040,
+                "kode_kelurahan": 3174040005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.788712,
+                    -6.163072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 25,
+                "nama_rsk": "Bina Sehat Mandiri ",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Duri Raya No. 22",
+                    "latitude": -6.185669,
+                    "longitude": 106.771454
+                },
+                "kode_pos": 11510,
+                "telepon": [
+                    "5658870",
+                    "5669411 - 12"
+                ],
+                "faximile": [
+                    "5603531"
+                ],
+                "website": null,
+                "email": "rsiabsm@yahoo.co.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174020,
+                "kode_kelurahan": 3174020005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.771454,
+                    -6.185669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 26,
+                "nama_rsk": "Jakarta Eye Center Kedoya",
+                "jenis_rsk": "Rumah Sakit Khusus Mata",
+                "location": {
+                    "alamat": "Jl. Terusan Arjuna Utara I No.1",
+                    "latitude": -6.189843,
+                    "longitude": 106.761078
+                },
+                "kode_pos": 11530,
+                "telepon": [
+                    ""
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": "cdc.kedoya@jakarta_eye_center.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174020,
+                "kode_kelurahan": 3174020006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.761078,
+                    -6.189843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 27,
+                "nama_rsk": "Anggrek Mas",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan  Anggrek  Nomor 2 B  RT.009 / RW.02",
+                    "latitude": -6.203074,
+                    "longitude": 106.772659
+                },
+                "kode_pos": 11550,
+                "telepon": [
+                    "5305720",
+                    "53672017",
+                    "53672018"
+                ],
+                "faximile": [
+                    "53672019"
+                ],
+                "website": "www.rsbanggrekmas.com",
+                "email": "info@rsbanggrekmas.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174020,
+                "kode_kelurahan": 3174020003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.772659,
+                    -6.203074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 28,
+                "nama_rsk": "Cinta Kasih Tzu Chi",
+                "jenis_rsk": "Rumah Sakit Khusus Bedah",
+                "location": {
+                    "alamat": "Jalan  Kamal Raya  Outer Ring Road",
+                    "latitude": -6.132041,
+                    "longitude": 106.736778
+                },
+                "kode_pos": 11730,
+                "telepon": [
+                    "55956850"
+                ],
+                "faximile": [
+                    "55951985",
+                    "55963681"
+                ],
+                "website": null,
+                "email": "rskb_tzuchi@yahoo.com ; tonikris57@yahoo.co.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174070,
+                "kode_kelurahan": 3174070005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.736778,
+                    -6.132041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 29,
+                "nama_rsk": "Brawijaya",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Taman Brawijaya No. 1",
+                    "latitude": -6.257521,
+                    "longitude": 106.807243
+                },
+                "kode_pos": 12140,
+                "telepon": [
+                    "7211337"
+                ],
+                "faximile": [
+                    "7211364"
+                ],
+                "website": null,
+                "email": "dwita.rakhmasari@brawijayahohpital.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.807243,
+                    -6.257521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30,
+                "nama_rsk": "Asih",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan  Panglima Polim I  Nomor 34",
+                    "latitude": -6.248023,
+                    "longitude": 106.800819
+                },
+                "kode_pos": 12160,
+                "telepon": [
+                    "2700610"
+                ],
+                "faximile": [
+                    "7254054"
+                ],
+                "website": "www.rsbasih.co.id",
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.800819,
+                    -6.248023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 31,
+                "nama_rsk": "Dharmawangsa ",
+                "jenis_rsk": "Rumah Sakit Khusus Jiwa",
+                "location": {
+                    "alamat": "Jl. Dharmawangsa Raya No. 13  Blok P II",
+                    "latitude": -6.255157,
+                    "longitude": 106.80265
+                },
+                "kode_pos": 12160,
+                "telepon": [
+                    "7394484"
+                ],
+                "faximile": [
+                    "7394162"
+                ],
+                "website": "www.dharmawangsa.org",
+                "email": "sanatorium@dharmawangsa.org",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.80265,
+                    -6.255157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 32,
+                "nama_rsk": "Ciranjang",
+                "jenis_rsk": "Rumah Sakit Khusus Telinga Hidung Tenggorokan",
+                "location": {
+                    "alamat": "Jalan  Ciranjang  Nomor 20-22",
+                    "latitude": -6.235796,
+                    "longitude": 106.810661
+                },
+                "kode_pos": 12180,
+                "telepon": [
+                    "7243366",
+                    "7208192"
+                ],
+                "faximile": [
+                    "7264038",
+                    "7398837"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060009
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.810661,
+                    -6.235796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 33,
+                "nama_rsk": "Panti Nugraha",
+                "jenis_rsk": "Rumah Sakit Bersalin",
+                "location": {
+                    "alamat": "Jl. Senayan No. 26",
+                    "latitude": -6.236399,
+                    "longitude": 106.815704
+                },
+                "kode_pos": 12180,
+                "telepon": [
+                    "7221171",
+                    "7223939"
+                ],
+                "faximile": [
+                    "7221171",
+                    "7223939"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060009
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.815704,
+                    -6.236399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 34,
+                "nama_rsk": "Kartini",
+                "jenis_rsk": "Rumah Sakit Bersalin",
+                "location": {
+                    "alamat": "Jl. Ciledug Raya No. 94 - 96",
+                    "latitude": -6.238179,
+                    "longitude": 106.769707
+                },
+                "kode_pos": 12230,
+                "telepon": [
+                    "7245646"
+                ],
+                "faximile": [
+                    "7230703"
+                ],
+                "website": null,
+                "email": "hendra_juniarta@yahoo.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171050,
+                "kode_kelurahan": 3171050004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.769707,
+                    -6.238179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 35,
+                "nama_rsk": "Avisena",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan  H. Rohimin  Nomor 30",
+                    "latitude": -6.23236,
+                    "longitude": 106.762512
+                },
+                "kode_pos": 12250,
+                "telepon": [
+                    "5853916"
+                ],
+                "faximile": [
+                    "5871802"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171040,
+                "kode_kelurahan": 3171040003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.762512,
+                    -6.23236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 36,
+                "nama_rsk": "Petukangan",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan  Ciledug Raya  Nomor 8 A",
+                    "latitude": -6.236749,
+                    "longitude": 106.751602
+                },
+                "kode_pos": 12270,
+                "telepon": [
+                    "7340906",
+                    "7353969"
+                ],
+                "faximile": [
+                    "73889956"
+                ],
+                "website": null,
+                "email": "petukanganmedicalcentre@gmail.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171040,
+                "kode_kelurahan": 3171040004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.751602,
+                    -6.236749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 37,
+                "nama_rsk": "FKG Universitas Prof. DR. Moestopo (B)",
+                "jenis_rsk": "Rumah Sakit Khusus Gigi & Mulut",
+                "location": {
+                    "alamat": "Jalan  Bintaro Permai Raya  Nomor 3",
+                    "latitude": -6.259408,
+                    "longitude": 106.764946
+                },
+                "kode_pos": 12330,
+                "telepon": [
+                    "73885251",
+                    "73885254"
+                ],
+                "faximile": [
+                    "73885251",
+                    "73885253"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171040,
+                "kode_kelurahan": 3171040001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.764946,
+                    -6.259408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 38,
+                "nama_rsk": "Kemang",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Ampera Raya No. 34",
+                    "latitude": -6.286158,
+                    "longitude": 106.818993
+                },
+                "kode_pos": 12550,
+                "telepon": [
+                    "27545454",
+                    "27545400"
+                ],
+                "faximile": [
+                    "78843548"
+                ],
+                "website": "www.kemangmedicalcare.com",
+                "email": "hri.isw@gmail.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171020,
+                "kode_kelurahan": 3171020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.818993,
+                    -6.286158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 39,
+                "nama_rsk": "Aulia",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Jeruk Raya No. 15 RT. 0011 / RW. 01",
+                    "latitude": -6.334566,
+                    "longitude": 106.827225
+                },
+                "kode_pos": 12620,
+                "telepon": [
+                    "7270208",
+                    "7867847",
+                    "08161133646"
+                ],
+                "faximile": [
+                    "7867847",
+                    "7866057"
+                ],
+                "website": "www.rsiaaulia.com",
+                "email": "rsia_aulia@yahoo.co.id / marketing.rsiaaulia.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171010,
+                "kode_kelurahan": 3171010004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.827225,
+                    -6.334566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40,
+                "nama_rsk": "Andhika",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Warung Sila No.8 RT.006 / RW.04 Gudang Baru",
+                    "latitude": -6.34433,
+                    "longitude": 106.814217
+                },
+                "kode_pos": 12630,
+                "telepon": [
+                    "7863408",
+                    "78887087"
+                ],
+                "faximile": [
+                    "7874612"
+                ],
+                "website": "www.rsia-andhika.blogspot.com",
+                "email": "rsia_andhika@yahoo.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171010,
+                "kode_kelurahan": 3171010003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.814217,
+                    -6.34433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 41,
+                "nama_rsk": "Sofa Marwa",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan Bina Warga (MAN 7) RT.009/RW.07, Kalibata",
+                    "latitude": -6.355423,
+                    "longitude": 106.820145
+                },
+                "kode_pos": 12640,
+                "telepon": [
+                    "7870160"
+                ],
+                "faximile": [
+                    "7864329"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171010,
+                "kode_kelurahan": 3171010002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.820145,
+                    -6.355423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 42,
+                "nama_rsk": "Duren Tiga",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan  Duren Tiga Raya  Nomor 5",
+                    "latitude": -6.253251,
+                    "longitude": 106.841087
+                },
+                "kode_pos": 12760,
+                "telepon": [
+                    "7993817",
+                    "7941843"
+                ],
+                "faximile": [
+                    "7901050"
+                ],
+                "website": null,
+                "email": "info@rsbdt.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171080,
+                "kode_kelurahan": 3171080004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.841087,
+                    -6.253251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 43,
+                "nama_rsk": "AINI Prof.DR.Isak Salim",
+                "jenis_rsk": "Rumah Sakit Khusus Mata",
+                "location": {
+                    "alamat": "Jl. H.R. Rasuna Said, Kuningan",
+                    "latitude": -6.214297,
+                    "longitude": 106.828339
+                },
+                "kode_pos": 12920,
+                "telepon": [
+                    "5256228"
+                ],
+                "faximile": [
+                    "5224288"
+                ],
+                "website": "www.rsmataaini.co.id",
+                "email": "info@rsmataaini.co.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171100,
+                "kode_kelurahan": 3171100004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.828339,
+                    -6.214297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 44,
+                "nama_rsk": "MRCCC Siloam Hospital Semanggi",
+                "jenis_rsk": "Rumah Sakit Khusus Kanker",
+                "location": {
+                    "alamat": "Jl. Garnisun Kav. 2 - 3",
+                    "latitude": -6.219012,
+                    "longitude": 106.816849
+                },
+                "kode_pos": 12930,
+                "telepon": [
+                    "57991779",
+                    "29962888"
+                ],
+                "faximile": [
+                    "57992155",
+                    "29962778"
+                ],
+                "website": "www.siloamhospitals.com",
+                "email": "melissa.luwia@siloamhospitals.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171100,
+                "kode_kelurahan": 3171100001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.816849,
+                    -6.219012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 45,
+                "nama_rsk": "Budhi Jaya",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Dr. Saharjo No. 120",
+                    "latitude": -6.218865,
+                    "longitude": 106.844963
+                },
+                "kode_pos": 12960,
+                "telepon": [
+                    "8311722",
+                    "8312378"
+                ],
+                "faximile": [
+                    "8301901"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171100,
+                "kode_kelurahan": 3171100005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.844963,
+                    -6.218865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46,
+                "nama_rsk": "Jantung Jakarta",
+                "jenis_rsk": "Rumah Sakit Khusus Jantung",
+                "location": {
+                    "alamat": "Jl. Matraman Raya No.23",
+                    "latitude": -6.200225,
+                    "longitude": 106.855194
+                },
+                "kode_pos": 13140,
+                "telepon": [
+                    "29360698"
+                ],
+                "faximile": [
+                    "29360697"
+                ],
+                "website": "www.rsjantungjakarta.com",
+                "email": "rsjantungjakarta@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172100,
+                "kode_kelurahan": 3172100002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.855194,
+                    -6.200225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 47,
+                "nama_rsk": "Rawamangun",
+                "jenis_rsk": "Rumah Sakit Khusus Bedah",
+                "location": {
+                    "alamat": "Jl. Balai Pustaka Raya No. 29-31",
+                    "latitude": -6.196397,
+                    "longitude": 106.885735
+                },
+                "kode_pos": 13220,
+                "telepon": [
+                    "4893531"
+                ],
+                "faximile": [
+                    "4710918"
+                ],
+                "website": null,
+                "email": "hrd.rsrawamangun@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.885735,
+                    -6.196397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 48,
+                "nama_rsk": "Alvernia Agusta",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan  Pemuda Nomor 80  RT.001 / RW.08",
+                    "latitude": -6.193845,
+                    "longitude": 106.891594
+                },
+                "kode_pos": 13220,
+                "telepon": [
+                    "4705266",
+                    "4720893"
+                ],
+                "faximile": [
+                    "4705266"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.891594,
+                    -6.193845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 49,
+                "nama_rsk": "Hermina Jatinegara",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Jatinegara Barat No. 126 ",
+                    "latitude": -6.220851,
+                    "longitude": 106.864647
+                },
+                "kode_pos": 13320,
+                "telepon": [
+                    "8191223",
+                    "8504371"
+                ],
+                "faximile": [
+                    "8560601",
+                    "8190111",
+                    "8196157"
+                ],
+                "website": "www.herminahospitalgroup.com",
+                "email": "dri_jtnherminagroup.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172060,
+                "kode_kelurahan": 3172060008
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.864647,
+                    -6.220851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 50,
+                "nama_rsk": "Bunda Aliyah",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Pahlawan Revolusi No. 100",
+                    "latitude": -6.233167,
+                    "longitude": 106.897072
+                },
+                "kode_pos": 13430,
+                "telepon": [
+                    "86602525"
+                ],
+                "faximile": [
+                    "86600712",
+                    "86600940"
+                ],
+                "website": "www.bundaaliyah.com",
+                "email": "yanuarjak@yahoo.co.id, marketing@bundaaliyah.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.897072,
+                    -6.233167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 51,
+                "nama_rsk": "SamMarie Basra",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jalan  Basuki Rachmat  Nomor 31",
+                    "latitude": -6.229296,
+                    "longitude": 106.897278
+                },
+                "kode_pos": 13430,
+                "telepon": [
+                    "86613145",
+                    "86613146"
+                ],
+                "faximile": [
+                    "86613147"
+                ],
+                "website": "www.sammariebasra.com",
+                "email": "contact.sambasra@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.897278,
+                    -6.229296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 52,
+                "nama_rsk": "Duren Sawit",
+                "jenis_rsk": "Rumah Sakit Khusus Jiwa",
+                "location": {
+                    "alamat": "Jl. Duren Sawit Baru No. 2",
+                    "latitude": -6.231572,
+                    "longitude": 106.909447
+                },
+                "kode_pos": 13440,
+                "telepon": [
+                    "8628686",
+                    "8617601"
+                ],
+                "faximile": [
+                    "8628659"
+                ],
+                "website": "www.rsdurensawit.go.id",
+                "email": "bludrsdurensawit@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.909447,
+                    -6.231572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 53,
+                "nama_rsk": "Sayyidah",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Taman Malaka Selatan No. 6",
+                    "latitude": -6.230402,
+                    "longitude": 106.925339
+                },
+                "kode_pos": 13450,
+                "telepon": [
+                    "86902950",
+                    "8655179"
+                ],
+                "faximile": [
+                    "8649886"
+                ],
+                "website": "www.rsiasayyidah.moonfruit.com",
+                "email": "sayyidah@centrin.net.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.925339,
+                    -6.230402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 54,
+                "nama_rsk": "Islam Klender Jakarta",
+                "jenis_rsk": "Rumah Sakit Khusus Jiwa",
+                "location": {
+                    "alamat": "Jl. Bunga Rampai X - Perumnas Klender",
+                    "latitude": -6.222166,
+                    "longitude": 106.933098
+                },
+                "kode_pos": 13460,
+                "telepon": [
+                    "86602402-8622491"
+                ],
+                "faximile": [
+                    "86610234"
+                ],
+                "website": "www.rsjiwaislam.com",
+                "email": "rsjiwaislam.yahoo.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.933098,
+                    -6.222166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 55,
+                "nama_rsk": "Asta Nugraha",
+                "jenis_rsk": "Rumah Sakit Bersalin",
+                "location": {
+                    "alamat": "JL. Duren Sawit Raya Blok K.3 No.1",
+                    "latitude": -6.221622,
+                    "longitude": 106.914818
+                },
+                "kode_pos": 13470,
+                "telepon": [
+                    "8615937"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.914818,
+                    -6.221622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 56,
+                "nama_rsk": "Restu Kasih",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Raya Bogor  Km. 19  No. 3.a",
+                    "latitude": -6.221622,
+                    "longitude": 106.914818
+                },
+                "kode_pos": 13510,
+                "telepon": [
+                    "8001177"
+                ],
+                "faximile": [
+                    "80882753"
+                ],
+                "website": null,
+                "email": "rsia_restu@yahoo.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.914818,
+                    -6.221622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 57,
+                "nama_rsk": "El Shama",
+                "jenis_rsk": "Rumah Sakit Bersalin",
+                "location": {
+                    "alamat": "Jl. Raya Bogor  Km.20 No.1",
+                    "latitude": -6.281852,
+                    "longitude": 106.87146
+                },
+                "kode_pos": 13510,
+                "telepon": [
+                    "33777772",
+                    "99777772",
+                    "99777773"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.87146,
+                    -6.281852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 58,
+                "nama_rsk": "TNI - AU",
+                "jenis_rsk": "Rumah Sakit Khusus Gigi & Mulut",
+                "location": {
+                    "alamat": "Jl. Puntodewo  No.1, Dirgantara II  RT.001 / RW.02",
+                    "latitude": -6.280531,
+                    "longitude": 106.882416
+                },
+                "kode_pos": 13610,
+                "telepon": [
+                    "80879255",
+                    "80879256"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172040,
+                "kode_kelurahan": 3172040001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.882416,
+                    -6.280531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 59,
+                "nama_rsk": "Pusat Otak Nasional",
+                "jenis_rsk": "Rumah Sakit Khusus Otak",
+                "location": {
+                    "alamat": "Jl. M.T. Haryono  Kavling 11",
+                    "latitude": -6.246079,
+                    "longitude": 106.870476
+                },
+                "kode_pos": 13630,
+                "telepon": [
+                    ""
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": "sophia1607@yahoo.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.870476,
+                    -6.246079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 60,
+                "nama_rsk": "Ketergantungan Obat",
+                "jenis_rsk": "Rumah Sakit Khusus Ketergantungan Obat",
+                "location": {
+                    "alamat": "Jl. LapanganTembak No. 75",
+                    "latitude": -6.347029,
+                    "longitude": 106.873795
+                },
+                "kode_pos": 13720,
+                "telepon": [
+                    "87711968",
+                    "87711969"
+                ],
+                "faximile": [
+                    "87711970"
+                ],
+                "website": "www.rsko-jakarta.com",
+                "email": "rskojakarta@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172020,
+                "kode_kelurahan": 3172020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.873795,
+                    -6.347029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 61,
+                "nama_rsk": "Bina Waluya",
+                "jenis_rsk": "Rumah Sakit Khusus Jantung",
+                "location": {
+                    "alamat": "Jl. TB Simatupang No. 71",
+                    "latitude": -6.307852,
+                    "longitude": 106.870781
+                },
+                "kode_pos": 13750,
+                "telepon": [
+                    "87781605",
+                    "87781606"
+                ],
+                "faximile": [
+                    "8403869",
+                    "8404652"
+                ],
+                "website": "www.binawaluya.com",
+                "email": "jimmyagung_27@ymail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172020,
+                "kode_kelurahan": 3172020004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.870781,
+                    -6.307852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 62,
+                "nama_rsk": "Resti Mulya",
+                "jenis_rsk": "Rumah Sakit Khusus Ibu dan Anak",
+                "location": {
+                    "alamat": "Jl. Pahlawan Komarudin Raya No. 5",
+                    "latitude": -6.20878,
+                    "longitude": 106.94178
+                },
+                "kode_pos": 13940,
+                "telepon": [
+                    "4802192"
+                ],
+                "faximile": [
+                    "48701488"
+                ],
+                "website": null,
+                "email": "rsia_resti_mulya@ymail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172080,
+                "kode_kelurahan": 3172080002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.94178,
+                    -6.20878
+                ]
+            }
+        }
+    ]
+}

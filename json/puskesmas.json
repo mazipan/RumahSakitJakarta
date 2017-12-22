@@ -1,0 +1,1325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN JAGAKARSA",
+                "location": {
+                    "alamat": "Jl. M. Khafi",
+                    "latitude": -6.351944,
+                    "longitude": 106.814163
+                },
+                "telepon": [
+                    "7864707"
+                ],
+                "faximile": [
+                    "7864707"
+                ],
+                "email": "puskesmas_kecamatanjagakarsa@yahoo.co.id",
+                "kepala_puskesmas": "drg. Dewi Isnawati Q.I",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171010,
+                "kode_kelurahan": 3171010002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.814163,
+                    -6.351944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN PASAR MINGGU",
+                "location": {
+                    "alamat": "Jl. Raya Kebagusan No.4",
+                    "latitude": -6.320833,
+                    "longitude": 106.825554
+                },
+                "telepon": [
+                    "7811265"
+                ],
+                "faximile": [
+                    "7811265"
+                ],
+                "email": "pkmpasarminggu@gmail.com",
+                "kepala_puskesmas": "drg. Susilowati",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171010,
+                "kode_kelurahan": 3171010004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.825554,
+                    -6.320833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN CILANDAK",
+                "location": {
+                    "alamat": "Jl. Komp. BNI  46 No. 57 Jak.Sel.",
+                    "latitude": -6.286667,
+                    "longitude": 106.793053
+                },
+                "telepon": [
+                    "7661613"
+                ],
+                "faximile": [
+                    "7661613"
+                ],
+                "email": "pkmcilandak@yahoo.com",
+                "kepala_puskesmas": "dr. Luigi",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171030,
+                "kode_kelurahan": 3171030003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.793053,
+                    -6.286667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN PESANGGRAHAN",
+                "location": {
+                    "alamat": "Jl. Cenek I/1",
+                    "latitude": -6.245278,
+                    "longitude": 106.752777
+                },
+                "telepon": [
+                    "7356087"
+                ],
+                "faximile": [
+                    "7356085"
+                ],
+                "email": "pkmpesanggrahan@yahoo.co.id ",
+                "kepala_puskesmas": "dr. Anang Kuncoro Adi",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171040,
+                "kode_kelurahan": 3171040004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.752777,
+                    -6.245278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KEBAYORAN LAMA",
+                "location": {
+                    "alamat": "Jl. Ciputat Raya Rt.005/06",
+                    "latitude": -6.249722,
+                    "longitude": 106.778053
+                },
+                "telepon": [
+                    "7245439"
+                ],
+                "faximile": [
+                    "7245439"
+                ],
+                "email": "puskeckbyl_08@yahoo.com",
+                "kepala_puskesmas": "dr Selvy Devita Anggeraini, MM",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171050,
+                "kode_kelurahan": 3171050003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.778053,
+                    -6.249722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KEBAYORAN BARU",
+                "location": {
+                    "alamat": "Jl. Iskandarsyah Raya No. 105",
+                    "latitude": -6.247222,
+                    "longitude": 106.805557
+                },
+                "telepon": [
+                    "7220274"
+                ],
+                "faximile": [
+                    "7220274"
+                ],
+                "email": "pkm_kebayoranbaru@yahoo.co.id",
+                "kepala_puskesmas": "dr. Rismasari",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.805557,
+                    -6.247222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN MAMPANG PRAPATAN",
+                "location": {
+                    "alamat": "Jl. Kapten Tendean",
+                    "latitude": -6.271389,
+                    "longitude": 106.819725
+                },
+                "telepon": [
+                    "79192187"
+                ],
+                "faximile": [
+                    "79192187"
+                ],
+                "email": "puskesmasmampang@gmail.com",
+                "kepala_puskesmas": "dr. Tri Resopimiarti",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171070,
+                "kode_kelurahan": 3171070001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.819725,
+                    -6.271389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN PANCORAN",
+                "location": {
+                    "alamat": "Jl. Potlot II/6 Duren Tiga",
+                    "latitude": -6.255278,
+                    "longitude": 106.839165
+                },
+                "telepon": [
+                    "79183517"
+                ],
+                "faximile": [
+                    "79183517"
+                ],
+                "email": "puskesmas_pancoran@yahoo.co.id",
+                "kepala_puskesmas": "dr. Melvin Sijabat",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171080,
+                "kode_kelurahan": 3171080003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.839165,
+                    -6.255278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN TEBET",
+                "location": {
+                    "alamat": "Jl. Prof.Dr.Soepomo, SH No. 54 Jaksel",
+                    "latitude": -6.235556,
+                    "longitude": 106.856667
+                },
+                "telepon": [
+                    "8314955"
+                ],
+                "faximile": [
+                    "8296918"
+                ],
+                "email": "puskesmastebet@ymail.com",
+                "kepala_puskesmas": "dr. Hilda",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171090,
+                "kode_kelurahan": 3171090003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.856667,
+                    -6.235556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 10,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN SETIABUDI",
+                "location": {
+                    "alamat": "Jl. Halimun No. 13 Guntur Jak-Sel",
+                    "latitude": -6.206667,
+                    "longitude": 106.833611
+                },
+                "telepon": [
+                    "8295529"
+                ],
+                "faximile": [
+                    "8295529"
+                ],
+                "email": "pkmsetiabudi@gmail.com",
+                "kepala_puskesmas": "dr. Friana Asmely",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171100,
+                "kode_kelurahan": 3171100007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.833611,
+                    -6.206667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 11,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN PASAR REBO",
+                "location": {
+                    "alamat": "Jl. Raya Kalisari",
+                    "latitude": -6.339167,
+                    "longitude": 106.861389
+                },
+                "telepon": [
+                    "87711248"
+                ],
+                "faximile": [
+                    "87711248"
+                ],
+                "email": "pkc_pasarrebo@yahoo.co.id",
+                "kepala_puskesmas": "dr. Darnis, Mkes",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172010,
+                "kode_kelurahan": 3172010001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.861389,
+                    -6.339167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 12,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN CIRACAS",
+                "location": {
+                    "alamat": "Jalan Raya  Lapangan Tembak",
+                    "latitude": -6.311111,
+                    "longitude": 106.874443
+                },
+                "telepon": [
+                    "8718995"
+                ],
+                "faximile": [
+                    "8718995"
+                ],
+                "email": "pkmciracas@yahoo.co.id",
+                "kepala_puskesmas": "dr Nikensari Koesrindartia",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172020,
+                "kode_kelurahan": 3172020004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.874443,
+                    -6.311111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 13,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN CIPAYUNG",
+                "location": {
+                    "alamat": "Jalan Monumen Pancasila Sakti",
+                    "latitude": -6.291944,
+                    "longitude": 106.906113
+                },
+                "telepon": [
+                    "87792277"
+                ],
+                "faximile": [
+                    "87792277"
+                ],
+                "email": "cipayungpuskesmas@yahoo.com",
+                "kepala_puskesmas": "Sunersi Handayani, SKM",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172030,
+                "kode_kelurahan": 3172030008
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.906113,
+                    -6.291944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 14,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN MAKASAR",
+                "location": {
+                    "alamat": "Jl. Pusdiklat Depnaker",
+                    "latitude": -6.282222,
+                    "longitude": 106.878059
+                },
+                "telepon": [
+                    "80879045"
+                ],
+                "faximile": [
+                    "80879045"
+                ],
+                "email": "puskesmas.makasar@yahoo.com",
+                "kepala_puskesmas": "drg. Herisianto T",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172040,
+                "kode_kelurahan": 3172040002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.878059,
+                    -6.282222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 15,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KRAMAT JATI",
+                "location": {
+                    "alamat": "Jalan Raya Impres No. 48",
+                    "latitude": -6.269722,
+                    "longitude": 106.868057
+                },
+                "telepon": [
+                    "87793604"
+                ],
+                "faximile": [
+                    "87793604"
+                ],
+                "email": "puskesmaskramatjati@ymail.com",
+                "kepala_puskesmas": "drg. S. Sholikhah Darmawie",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.868057,
+                    -6.269722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 16,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN JATINEGARA",
+                "location": {
+                    "alamat": "Jl. Matraman Raya No. 220",
+                    "latitude": -6.213889,
+                    "longitude": 106.862778
+                },
+                "telepon": [
+                    "8195146"
+                ],
+                "faximile": [
+                    "8195146"
+                ],
+                "email": "pkmjtg@yahoo.co.id",
+                "kepala_puskesmas": "dr. Winarto",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172060,
+                "kode_kelurahan": 3172060007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.862778,
+                    -6.213889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 17,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN DUREN SAWIT",
+                "location": {
+                    "alamat": "JL.H. Dogol No. 15 A Duren Sawit",
+                    "latitude": -6.241944,
+                    "longitude": 106.910835
+                },
+                "telepon": [
+                    "86601065"
+                ],
+                "faximile": [
+                    "86601065"
+                ],
+                "email": "pusk_dursa@yahoo.com",
+                "kepala_puskesmas": "drg. Rini Muharni",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.910835,
+                    -6.241944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 18,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN CAKUNG",
+                "location": {
+                    "alamat": "Jl. Raya Bekasi Km.18",
+                    "latitude": -6.198056,
+                    "longitude": 106.905281
+                },
+                "telepon": [
+                    "4608446"
+                ],
+                "faximile": [
+                    "4608446"
+                ],
+                "email": "pkmcakung@gmail.com ",
+                "kepala_puskesmas": "dr.Rita Wedya Astuti",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172080,
+                "kode_kelurahan": 3172080001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.905281,
+                    -6.198056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 19,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN PULO GADUNG",
+                "location": {
+                    "alamat": "Jl. Kayu Putih Selatan III",
+                    "latitude": -6.186389,
+                    "longitude": 106.895554
+                },
+                "telepon": [
+                    "4890522"
+                ],
+                "faximile": [
+                    "4890522"
+                ],
+                "email": "pulogadung@yahoo.co.id",
+                "kepala_puskesmas": "drg. Kristiani Dwi Hastuti",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.895554,
+                    -6.186389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 20,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN MATRAMAN",
+                "location": {
+                    "alamat": "Jl. Kebon Kelapa Raya No.29",
+                    "latitude": -6.206111,
+                    "longitude": 106.85611
+                },
+                "telepon": [
+                    "8581957"
+                ],
+                "faximile": [
+                    "8581957"
+                ],
+                "email": "puskesmas.matraman@gmail.com",
+                "kepala_puskesmas": "dr. Herni Lestyaningsih",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172100,
+                "kode_kelurahan": 3172100001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.85611,
+                    -6.206111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 21,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN TANAH ABANG",
+                "location": {
+                    "alamat": "Jl. KH Mas Mansyur  No. 30",
+                    "latitude": -6.191111,
+                    "longitude": 106.81472
+                },
+                "telepon": [
+                    "31903174"
+                ],
+                "faximile": [
+                    "31903174"
+                ],
+                "email": "pkm_tanahabang@gmail.com",
+                "kepala_puskesmas": "dr. Henni Bariah",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173010,
+                "kode_kelurahan": 3173010006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.81472,
+                    -6.191111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 22,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN MENTENG",
+                "location": {
+                    "alamat": "Jl. Pegangsaan Barat 14",
+                    "latitude": -6.199444,
+                    "longitude": 106.84111
+                },
+                "telepon": [
+                    "31935836"
+                ],
+                "faximile": [
+                    "31904965"
+                ],
+                "email": "pkm_kecmenteng@yahoo.co.id",
+                "kepala_puskesmas": "drg. Alamas Hidayati",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.84111,
+                    -6.199444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 23,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN SENEN",
+                "location": {
+                    "alamat": "Jl. Kramat VII",
+                    "latitude": -6.189722,
+                    "longitude": 106.842781
+                },
+                "telepon": [
+                    "3145194"
+                ],
+                "faximile": [
+                    "3145194"
+                ],
+                "email": "pkm_senen@yahoo.com",
+                "kepala_puskesmas": "drg. Kristy Wathini",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.842781,
+                    -6.189722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 24,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN JOHAR BARU",
+                "location": {
+                    "alamat": "Jalan Tanah Tinggi XII",
+                    "latitude": -6.181944,
+                    "longitude": 106.861664
+                },
+                "telepon": [
+                    "4246359"
+                ],
+                "faximile": [
+                    "4246359"
+                ],
+                "email": "pkm.joharbaru@yahoo.com    ",
+                "kepala_puskesmas": "dr. Marullah Budiman P",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173040,
+                "kode_kelurahan": 3173040001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.861664,
+                    -6.181944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 25,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN CEMPAKA PUTIH",
+                "location": {
+                    "alamat": "Jl. Rawasari Selatan Nomor 1",
+                    "latitude": -6.175556,
+                    "longitude": 106.861115
+                },
+                "telepon": [
+                    "42801340"
+                ],
+                "faximile": [
+                    "42801341"
+                ],
+                "email": "puskesmaskecputih@yahoo.co.id",
+                "kepala_puskesmas": "dr. Budi Prayudi",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173050,
+                "kode_kelurahan": 3173050003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.861115,
+                    -6.175556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 26,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KEMAYORAN",
+                "location": {
+                    "alamat": "Jl. Serdang Baru I RT.006/05",
+                    "latitude": -6.171389,
+                    "longitude": 106.855553
+                },
+                "telepon": [
+                    "42801847"
+                ],
+                "faximile": [
+                    "42801846"
+                ],
+                "email": "puskesmaskemayoran@yahoo.com",
+                "kepala_puskesmas": "drg. Lindawati Mkes",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173060,
+                "kode_kelurahan": 3173060001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.855553,
+                    -6.171389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 27,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN SAWAH BESAR",
+                "location": {
+                    "alamat": "Jl. Dwi Warna 6/8",
+                    "latitude": -6.137778,
+                    "longitude": 106.826942
+                },
+                "telepon": [
+                    "6012240"
+                ],
+                "faximile": [
+                    "6012240"
+                ],
+                "email": "puskesmas_sawahbesar@yahoo.com",
+                "kepala_puskesmas": "dr. Siti Ainun Dwiyanti",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173070,
+                "kode_kelurahan": 3173070005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.826942,
+                    -6.137778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 28,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN GAMBIR",
+                "location": {
+                    "alamat": "Jl.Tanah Abang 1/10",
+                    "latitude": -6.170556,
+                    "longitude": 106.819168
+                },
+                "telepon": [
+                    "3810051"
+                ],
+                "faximile": [
+                    "3844256"
+                ],
+                "email": "pkmgambir@gmail.com",
+                "kepala_puskesmas": "drg. Indira Febriyanti",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173080,
+                "kode_kelurahan": 3173080002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.819168,
+                    -6.170556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 29,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KEMBANGAN",
+                "location": {
+                    "alamat": "Jl. Topas Blok F2 Taman Meruya",
+                    "latitude": -6.214444,
+                    "longitude": 106.724167
+                },
+                "telepon": [
+                    "5870834"
+                ],
+                "faximile": [
+                    "5870834"
+                ],
+                "email": "pkm_kembangan@yahoo.com",
+                "kepala_puskesmas": "dr.Yefy Eskar",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174010,
+                "kode_kelurahan": 3174010003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.724167,
+                    -6.214444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KEBON JERUK",
+                "location": {
+                    "alamat": "Jl. Kebon Jeruk No. 2",
+                    "latitude": -6.198889,
+                    "longitude": 106.765282
+                },
+                "telepon": [
+                    "5482367"
+                ],
+                "faximile": [
+                    "5482367"
+                ],
+                "email": "pkm_kjeruk@yahoo.co.id",
+                "kepala_puskesmas": "dr Junaidah",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174020,
+                "kode_kelurahan": 3174020004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.765282,
+                    -6.198889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 31,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN PAL MERAH",
+                "location": {
+                    "alamat": "Jl. Palmerah Barat No.120",
+                    "latitude": -6.208333,
+                    "longitude": 106.788612
+                },
+                "telepon": [
+                    "5482370"
+                ],
+                "faximile": [
+                    "5482370"
+                ],
+                "email": "pkm_palmerah@yahoo.com",
+                "kepala_puskesmas": "Lia Sumarti, SKM, M.Kes",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174030,
+                "kode_kelurahan": 3174030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.788612,
+                    -6.208333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 32,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN GROGOL PETAMBURAN",
+                "location": {
+                    "alamat": "Wijaya III Komp. Duta Mas",
+                    "latitude": -6.151111,
+                    "longitude": 106.779724
+                },
+                "telepon": [
+                    "564 8379"
+                ],
+                "faximile": [
+                    "564 8379"
+                ],
+                "email": "petpkc_lo@yahoo.com ",
+                "kepala_puskesmas": "dr. Murniasi Hutapea",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174040,
+                "kode_kelurahan": 3174040006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.779724,
+                    -6.151111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 33,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN TAMBORA",
+                "location": {
+                    "alamat": "Krendang Utara No. 4",
+                    "latitude": -6.148056,
+                    "longitude": 106.804726
+                },
+                "telepon": [
+                    "6318822"
+                ],
+                "faximile": [
+                    "6318822"
+                ],
+                "email": "pkm_kec_tambora@yahoo.co.id",
+                "kepala_puskesmas": "dr. Ahrahayati Wildany",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174050,
+                "kode_kelurahan": 3174050005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.804726,
+                    -6.148056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 34,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN TAMANSARI",
+                "location": {
+                    "alamat": "Jl. Madu No.10 Rt.003/03",
+                    "latitude": -6.143889,
+                    "longitude": 106.819168
+                },
+                "telepon": [
+                    "6297752"
+                ],
+                "faximile": [
+                    "6297752"
+                ],
+                "email": "pkc_tamansari@yahoo.com",
+                "kepala_puskesmas": "dr. Herwin Meifendy",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174060,
+                "kode_kelurahan": 3174060005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.819168,
+                    -6.143889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 35,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN CENGKARENG",
+                "location": {
+                    "alamat": "Jl. Raya kamal No.2 Cengkareng",
+                    "latitude": -6.144444,
+                    "longitude": 106.728615
+                },
+                "telepon": [
+                    "6191756"
+                ],
+                "faximile": [
+                    "6191756"
+                ],
+                "email": "puskesmascengkareng@yahoo.co.id",
+                "kepala_puskesmas": "dr. Maryati Kasiman",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174070,
+                "kode_kelurahan": 3174070006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.728615,
+                    -6.144444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 36,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KALIDERES",
+                "location": {
+                    "alamat": "Jalan Satu Maret",
+                    "latitude": -6.12677,
+                    "longitude": 106.7162256
+                },
+                "telepon": [
+                    "54390576"
+                ],
+                "faximile": [
+                    "54390576"
+                ],
+                "email": "pkc_kalideres@yahoo.co.id",
+                "kepala_puskesmas": "dr. Darus Sahmedi",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174080,
+                "kode_kelurahan": 3174080004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7162256,
+                    -6.12677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 37,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN PENJARINGAN",
+                "location": {
+                    "alamat": "Jl. Raya Teluk Gong  No. 2",
+                    "latitude": -6.138333,
+                    "longitude": 106.781113
+                },
+                "telepon": [
+                    "66690881"
+                ],
+                "faximile": [
+                    "66690881"
+                ],
+                "email": "pkm_penji@yahoo.co.id",
+                "kepala_puskesmas": "drg. Florida Masniari Sitinjak",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175010,
+                "kode_kelurahan": 3175010003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.781113,
+                    -6.138333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 38,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN PADEMANGAN",
+                "location": {
+                    "alamat": "Jl. Budi Mulia Nomor 11",
+                    "latitude": -6.136944,
+                    "longitude": 106.843613
+                },
+                "telepon": [
+                    "6452346"
+                ],
+                "faximile": [
+                    "6452346"
+                ],
+                "email": "pkc_pademangan@yahoo.com",
+                "kepala_puskesmas": "drg. Dara Pahlarini",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175020,
+                "kode_kelurahan": 3175020002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.843613,
+                    -6.136944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 39,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN TANJUNG PRIOK",
+                "location": {
+                    "alamat": "Jl. Bugis No. 63",
+                    "latitude": -6.116111,
+                    "longitude": 106.889168
+                },
+                "telepon": [
+                    "43930348"
+                ],
+                "faximile": [
+                    "43908923"
+                ],
+                "email": "pkmtgpriok@yahoo.co.id ",
+                "kepala_puskesmas": "dr. Yudi Dimyati",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.889168,
+                    -6.116111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KOJA",
+                "location": {
+                    "alamat": "Jl. Wayang Permai Nomor 39",
+                    "latitude": -6.119444,
+                    "longitude": 106.919441
+                },
+                "telepon": [
+                    "435 8809"
+                ],
+                "faximile": [
+                    "435 8809"
+                ],
+                "email": "pkm_koja@yahoo.com",
+                "kepala_puskesmas": "dr. Lysbeth Regina Pandjaitan",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175040,
+                "kode_kelurahan": 3175040003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.919441,
+                    -6.119444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 41,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN KELAPA GADING",
+                "location": {
+                    "alamat": "Jl. Gadang Nomor 1",
+                    "latitude": -6.155915,
+                    "longitude": 106.904785
+                },
+                "telepon": [
+                    "45853300"
+                ],
+                "faximile": [
+                    "45853301"
+                ],
+                "email": "puskeskec_gading@yahoo.com",
+                "kepala_puskesmas": "drg. Dini Indrawati",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175050,
+                "kode_kelurahan": 3175050002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.904785,
+                    -6.155915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 42,
+                "nama_Puskesmas": "PUSKESMAS KECAMATAN CILINCING",
+                "location": {
+                    "alamat": "Jl. Madya Kebantenan Nomor 4",
+                    "latitude": -6.148333,
+                    "longitude": 106.924446
+                },
+                "telepon": [
+                    "4416367"
+                ],
+                "faximile": [
+                    "4412889"
+                ],
+                "email": "puskesmas.cilincing@yahoo.com",
+                "kepala_puskesmas": "dr. Mirsad",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175060,
+                "kode_kelurahan": 3175060001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.924446,
+                    -6.148333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 43,
+                "nama_Puskesmas": "Pusk. Kec. Kep.Seribu Utara",
+                "location": {
+                    "alamat": "Pulau Kelapa",
+                    "latitude": -5.654261,
+                    "longitude": 106.567818
+                },
+                "telepon": [
+                    "37175900"
+                ],
+                "faximile": [
+                    "37175900"
+                ],
+                "email": "puskesmaspulau@yahoo.co.id",
+                "kepala_puskesmas": "Edwin Masli, SKM",
+                "kode_kota": 3101,
+                "kode_kecamatan": 3101020,
+                "kode_kelurahan": 3101020002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.567818,
+                    -5.654261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 44,
+                "nama_Puskesmas": "Pusk. Kec. Kep.Seribu Selatan",
+                "location": {
+                    "alamat": "Pulau Tidung",
+                    "latitude": -5.798503,
+                    "longitude": 106.498444
+                },
+                "telepon": [
+                    ""
+                ],
+                "faximile": [
+                    "5447381"
+                ],
+                "email": "pkm.1000selatan@yahoo.com",
+                "kepala_puskesmas": "dr. Syukur Pelianus T",
+                "kode_kota": 3101,
+                "kode_kecamatan": 3101010,
+                "kode_kelurahan": 3101010001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.498444,
+                    -5.798503
+                ]
+            }
+        }
+    ]
+}

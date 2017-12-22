@@ -1,0 +1,3645 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "nama_rsu": "Tarakan",
+                "jenis_rsu": "Rumah Sakit Umum Daerah",
+                "location": {
+                    "alamat": "Jl. Kyai Caringin No. 7",
+                    "latitude": -6.171333,
+                    "longitude": 106.810013
+                },
+                "kode_pos": 10150,
+                "telepon": [
+                    "3503150",
+                    "3503003",
+                    "3508993"
+                ],
+                "faximile": [
+                    "3503412",
+                    " 3863309"
+                ],
+                "website": "www.rstarakanjakarta.com",
+                "email": "kusmedi@gmail.com, rsd_tarakan@yahoo.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173080,
+                "kode_kelurahan": 3173080001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.810013,
+                    -6.171333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "nama_rsu": "DR. Mintohardjo",
+                "jenis_rsu": "Rumah Sakit Umum TNI - Angkatan Laut",
+                "location": {
+                    "alamat": "Jl. Bendungan Hilir No. 17",
+                    "latitude": -6.210848,
+                    "longitude": 106.811996
+                },
+                "kode_pos": 10210,
+                "telepon": [
+                    "5703081 - 85"
+                ],
+                "faximile": [
+                    "5711997"
+                ],
+                "website": "www.rsaldrmintohardjo.com",
+                "email": "rsalmintohardjo@ymail.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173010,
+                "kode_kelurahan": 3173010002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.811996,
+                    -6.210848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "nama_rsu": "Sahid Sahirman",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Jenderal Sudirman Kavling 86",
+                    "latitude": -6.209445,
+                    "longitude": 106.819382
+                },
+                "kode_pos": 10220,
+                "telepon": [
+                    "5704591",
+                    "5703231"
+                ],
+                "faximile": [
+                    "5705505",
+                    "5727213"
+                ],
+                "website": "www.ssmh.co.id",
+                "email": "information@ssmh.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173010,
+                "kode_kelurahan": 3173010003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.819382,
+                    -6.209445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "nama_rsu": "PGI Cikini",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raden Saleh No. 40 ",
+                    "latitude": -6.19127,
+                    "longitude": 106.841408
+                },
+                "kode_pos": 10330,
+                "telepon": [
+                    "38997777"
+                ],
+                "faximile": [
+                    "31924663",
+                    "31908391"
+                ],
+                "website": " www.rscikini.com",
+                "email": "tedjowa@yahoo.com, mail@rscikini.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.841408,
+                    -6.19127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 6,
+                "nama_rsu": "Menteng Mitra Afia",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Kali Pasir  No. 9",
+                    "latitude": -6.187353,
+                    "longitude": 106.839081
+                },
+                "kode_pos": 10340,
+                "telepon": [
+                    "3154050"
+                ],
+                "faximile": [
+                    "3146309"
+                ],
+                "website": "www.rsmentengmitraafia.com",
+                "email": "panela_ramadita@yahoo.com, info@rsmentengmitraafia.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.839081,
+                    -6.187353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 7,
+                "nama_rsu": "Abdi Waluyo",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  HOS Cokroaminoto  Nomor 31-33",
+                    "latitude": -6.189762,
+                    "longitude": 106.8293
+                },
+                "kode_pos": 10350,
+                "telepon": [
+                    "3144989"
+                ],
+                "faximile": [
+                    "31930866"
+                ],
+                "website": null,
+                "email": "dr.migot@yahoo.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8293,
+                    -6.189762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 8,
+                "nama_rsu": "Bunda Jakarta",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Teuku Cik Ditiro No. 21",
+                    "latitude": -6.196026,
+                    "longitude": 106.836517
+                },
+                "kode_pos": 10350,
+                "telepon": [
+                    "3909692",
+                    "31923939"
+                ],
+                "faximile": [
+                    "3101077"
+                ],
+                "website": "www.bunda.co.id",
+                "email": "bundahospital@bunda.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173020,
+                "kode_kelurahan": 3173020004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.836517,
+                    -6.196026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 9,
+                "nama_rsu": "Gatot Soebroto",
+                "jenis_rsu": "Rumah Sakit Umum Pusat Angkatan Darat",
+                "location": {
+                    "alamat": "Jl. Dr. Abdul Rachman Saleh 24",
+                    "latitude": -6.176608,
+                    "longitude": 106.836861
+                },
+                "kode_pos": 10410,
+                "telepon": [
+                    "3441008"
+                ],
+                "faximile": [
+                    "3440693"
+                ],
+                "website": null,
+                "email": "rspadgatsu@pdpersi.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.836861,
+                    -6.176608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 10,
+                "nama_rsu": "Dr. Cipto Mangunkusumo",
+                "jenis_rsu": "Rumah Sakit Umum Pusat Nasional",
+                "location": {
+                    "alamat": "Jl. Diponegoro No. 71",
+                    "latitude": -6.196762,
+                    "longitude": 106.846886
+                },
+                "kode_pos": 10430,
+                "telepon": [
+                    "3918301"
+                ],
+                "faximile": [
+                    "3148991"
+                ],
+                "website": "www.rscm.co.id",
+                "email": "perbendaharaan.rscm@yahoo.com, dir_rscm@yahoo.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.846886,
+                    -6.196762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 11,
+                "nama_rsu": "Moh Ridwan Meuraksa",
+                "jenis_rsu": "Rumah Sakit Tk. II",
+                "location": {
+                    "alamat": "Jl. Kramat Raya  No. 174",
+                    "latitude": -6.191414,
+                    "longitude": 106.847
+                },
+                "kode_pos": 10430,
+                "telepon": [
+                    "3150535 ",
+                    "323094"
+                ],
+                "faximile": [
+                    "3916888"
+                ],
+                "website": null,
+                "email": "tanjung_widia@yahoo.com, rsmrm74@yahoo.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.847,
+                    -6.191414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 12,
+                "nama_rsu": "Kramat 128",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Kramat Raya  Nomor 128",
+                    "latitude": -6.18536,
+                    "longitude": 106.843994
+                },
+                "kode_pos": 10430,
+                "telepon": [
+                    "3909513 ; 3909514"
+                ],
+                "faximile": [
+                    "3909125"
+                ],
+                "website": "www.rskramat128.com",
+                "email": "dyah.agustina.w@gmail.com ; info@rskramat128.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.843994,
+                    -6.18536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 13,
+                "nama_rsu": "PK. St. Carolus ",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Salemba Raya No. 41",
+                    "latitude": -6.195917,
+                    "longitude": 106.851006
+                },
+                "kode_pos": 10440,
+                "telepon": [
+                    "3904441"
+                ],
+                "faximile": [
+                    "3103226"
+                ],
+                "website": null,
+                "email": "markus_wasesa@yahoo.com, humas_pksc.or.id, carolus@pdpersi.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.851006,
+                    -6.195917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 14,
+                "nama_rsu": "Moh. Husni Thamrin Salemba",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Salemba Tengah 26 - 28",
+                    "latitude": -6.193444,
+                    "longitude": 106.852005
+                },
+                "kode_pos": 10440,
+                "telepon": [
+                    "3904422 Ext.1900 ;1919"
+                ],
+                "faximile": [
+                    "3107816-2305182"
+                ],
+                "website": "www.thamrinhospital.com",
+                "email": "info@thamrinhospital.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173030,
+                "kode_kelurahan": 3173030002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.852005,
+                    -6.193444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 15,
+                "nama_rsu": "Islam Jakarta Cempaka Putih",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Cempaka Putih Tengah I / 1",
+                    "latitude": -6.170203,
+                    "longitude": 106.870659
+                },
+                "kode_pos": 10510,
+                "telepon": [
+                    "42801567-4250451"
+                ],
+                "faximile": [
+                    "4206681"
+                ],
+                "website": "www.rsi.co.id",
+                "email": "rsijpusat@rsi.co.id,  rsij@cbn.net.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173050,
+                "kode_kelurahan": 3173050002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.870659,
+                    -6.170203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 16,
+                "nama_rsu": "Pertamina Jaya",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Achmad Yani No. 2, By Pass",
+                    "latitude": -6.173366,
+                    "longitude": 106.876312
+                },
+                "kode_pos": 10510,
+                "telepon": [
+                    "4211911"
+                ],
+                "faximile": [
+                    "4211913"
+                ],
+                "website": "www.rspj.co.id",
+                "email": "pertamedika.rspj@gmail.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173050,
+                "kode_kelurahan": 3173050002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.876312,
+                    -6.173366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 17,
+                "nama_rsu": "Evasari",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Rawamangun  Nomor 47",
+                    "latitude": -6.193554,
+                    "longitude": 106.859947
+                },
+                "kode_pos": 10570,
+                "telepon": [
+                    "4202851-4"
+                ],
+                "faximile": [
+                    "4209725"
+                ],
+                "website": "www.evasari-jakarta.awalbros.com",
+                "email": "info@rsia_evasari@yahoo.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173050,
+                "kode_kelurahan": 3173050001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.859947,
+                    -6.193554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 18,
+                "nama_rsu": "Mitra Kemayoran",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Landas Pacu Timur",
+                    "latitude": -6.151878,
+                    "longitude": 106.858414
+                },
+                "kode_pos": 10630,
+                "telepon": [
+                    "6545555"
+                ],
+                "faximile": [
+                    "6545959"
+                ],
+                "website": "www.mitrakemayoran.com",
+                "email": "kemayoran@mitrakeluarga.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.858414,
+                    -6.151878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 19,
+                "nama_rsu": "Husada ",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Mangga Besar Raya 137 - 139",
+                    "latitude": -6.147598,
+                    "longitude": 106.828812
+                },
+                "kode_pos": 10730,
+                "telepon": [
+                    "6260208 - 6490090"
+                ],
+                "faximile": [
+                    "6497494"
+                ],
+                "website": "www.husada.co.id",
+                "email": "husada@husada.co.id",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173070,
+                "kode_kelurahan": 3173070005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.828812,
+                    -6.147598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 21,
+                "nama_rsu": "Islam Jakarta Sukapura",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Tipar - Cakung No. 5",
+                    "latitude": -6.139646,
+                    "longitude": 106.920921
+                },
+                "kode_pos": 14140,
+                "telepon": [
+                    "4400778",
+                    "4400779",
+                    "4400781"
+                ],
+                "faximile": [
+                    "4400782"
+                ],
+                "website": "www.rsijsukapura@.co.id",
+                "email": "rsijsukapura@gmail.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175060,
+                "kode_kelurahan": 3175060001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.920921,
+                    -6.139646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 22,
+                "nama_rsu": "Pekerja",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Raya Cakung Cilincing, RT.002/RW.003 ",
+                    "latitude": -6.144747,
+                    "longitude": 106.923759
+                },
+                "kode_pos": 14140,
+                "telepon": [
+                    "29484848  (10 lines)"
+                ],
+                "faximile": [
+                    "29482875"
+                ],
+                "website": "www.kbn.co.id",
+                "email": "rsu.pekerja@gmail.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175060,
+                "kode_kelurahan": 3175060001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.923759,
+                    -6.144747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 23,
+                "nama_rsu": "Koja",
+                "jenis_rsu": "Rumah Sakit Umum Daerah",
+                "location": {
+                    "alamat": "Jl. Deli No. 4  Tanjung Priok",
+                    "latitude": -6.108805,
+                    "longitude": 106.900162
+                },
+                "kode_pos": 14220,
+                "telepon": [
+                    "43938478"
+                ],
+                "faximile": [
+                    "4352401 - 4372273"
+                ],
+                "website": "www.rsudkoja.com",
+                "email": "rsudkoja@ymail.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175040,
+                "kode_kelurahan": 3175040006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.900162,
+                    -6.108805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 24,
+                "nama_rsu": "Mitra Keluarga Kelapa Gading",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Bukit Gading Raya Kav. II",
+                    "latitude": -6.151771,
+                    "longitude": 106.897102
+                },
+                "kode_pos": 14240,
+                "telepon": [
+                    "45852700"
+                ],
+                "faximile": [
+                    "45852727"
+                ],
+                "website": "www.mitrakeluarga.com",
+                "email": "kelapagading@mitrakeluarga.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175050,
+                "kode_kelurahan": 3175050001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.897102,
+                    -6.151771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 25,
+                "nama_rsu": "Gading Pluit",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Boulevard Timur Raya RT. 006 / 02",
+                    "latitude": -6.166122,
+                    "longitude": 106.915993
+                },
+                "kode_pos": 14250,
+                "telepon": [
+                    "4521001",
+                    "4520201"
+                ],
+                "faximile": [
+                    "4520578"
+                ],
+                "website": null,
+                "email": "gadingpluit@gadingpluit-hospital.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175050,
+                "kode_kelurahan": 3175050003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.915993,
+                    -6.166122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 26,
+                "nama_rsu": "Pelabuhan Jakarta",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Kramat Jaya, Tanjung Priok",
+                    "latitude": -6.124692,
+                    "longitude": 106.917519
+                },
+                "kode_pos": 14260,
+                "telepon": [
+                    "4403026"
+                ],
+                "faximile": [
+                    "4403551",
+                    "4406886"
+                ],
+                "website": "www.rspelabuhan.com",
+                "email": "marketing.rspj@gmail.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175040,
+                "kode_kelurahan": 3175040003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.917519,
+                    -6.124692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 27,
+                "nama_rsu": "Mulyasari",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Plumpang Semper No. 19",
+                    "latitude": -6.129088,
+                    "longitude": 106.906509
+                },
+                "kode_pos": 14260,
+                "telepon": [
+                    "4390666",
+                    "4393111",
+                    "4393888"
+                ],
+                "faximile": [
+                    "43935676"
+                ],
+                "website": "www.rsmulyasari.com",
+                "email": "info@rsmulyasari.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175040,
+                "kode_kelurahan": 3175040003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.906509,
+                    -6.129088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 28,
+                "nama_rsu": "Port Medical Center",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Enggano No. 10",
+                    "latitude": -6.110295,
+                    "longitude": 106.889389
+                },
+                "kode_pos": 14310,
+                "telepon": [
+                    "43902350"
+                ],
+                "faximile": [
+                    "43902302"
+                ],
+                "website": null,
+                "email": "tienastari_jpkm@yahoo.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.889389,
+                    -6.110295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 29,
+                "nama_rsu": "Sukmul Sisma Medika",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Tawes No. 18-20 ",
+                    "latitude": -6.112143,
+                    "longitude": 106.881996
+                },
+                "kode_pos": 14310,
+                "telepon": [
+                    "4301269"
+                ],
+                "faximile": [
+                    "4301272"
+                ],
+                "website": null,
+                "email": "sriha36@gmail.com, sukmul@indosat.net.id",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.881996,
+                    -6.112143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30,
+                "nama_rsu": "Puri Medika",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl Sungai Bambu  No. 5",
+                    "latitude": -6.129145,
+                    "longitude": 106.890198
+                },
+                "kode_pos": 14330,
+                "telepon": [
+                    "43903355-43901273"
+                ],
+                "faximile": [
+                    "43903388"
+                ],
+                "website": "www.purimdika.com",
+                "email": "purmed-medcen@centrin.net.id",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.890198,
+                    -6.129145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 31,
+                "nama_rsu": "Satya Negara",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Agung Utara Raya Blok A No. 1",
+                    "latitude": -6.138887,
+                    "longitude": 106.861549
+                },
+                "kode_pos": 14350,
+                "telepon": [
+                    "65836583",
+                    "64715200",
+                    "64715900"
+                ],
+                "faximile": [
+                    "687813-64717813"
+                ],
+                "website": "www.rssatyanegara.com",
+                "email": "chitra_usmanuddin@yahoo.com, rssn@cbn.net.id",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.861549,
+                    -6.138887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 32,
+                "nama_rsu": "Royal Progress",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Danau Sunter Utara Blok F 25 No. 12",
+                    "latitude": -6.139086,
+                    "longitude": 106.865395
+                },
+                "kode_pos": 14350,
+                "telepon": [
+                    "6459877-6400261"
+                ],
+                "faximile": [
+                    "6400778"
+                ],
+                "website": "www.royalprogress.com",
+                "email": "setdir.rssn@gmail.com, ask.us@royalprogress.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.865395,
+                    -6.139086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 33,
+                "nama_rsu": "Hermina Podomoro",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Danau Agung 2 Blok E 3  Nomor 28-30",
+                    "latitude": -6.145772,
+                    "longitude": 106.859978
+                },
+                "kode_pos": 14350,
+                "telepon": [
+                    "6404910"
+                ],
+                "faximile": [
+                    "6518720"
+                ],
+                "website": "www.hermina.com",
+                "email": "podomoro@rsiahermina.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175030,
+                "kode_kelurahan": 3175030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.859978,
+                    -6.145772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 34,
+                "nama_rsu": "Atma Jaya",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Pluit Raya No. 2",
+                    "latitude": -6.126524,
+                    "longitude": 106.792809
+                },
+                "kode_pos": 14440,
+                "telepon": [
+                    "6606121 ; 6606127"
+                ],
+                "faximile": [
+                    "6606122"
+                ],
+                "website": null,
+                "email": "rsatmajaya@pdpersi.co.id",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175010,
+                "kode_kelurahan": 3175010004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.792809,
+                    -6.126524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 35,
+                "nama_rsu": "Pluit",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Pluit Selatan No. 2",
+                    "latitude": -6.125572,
+                    "longitude": 106.799835
+                },
+                "kode_pos": 14440,
+                "telepon": [
+                    "6685006 - 6685070"
+                ],
+                "faximile": [
+                    "6684878"
+                ],
+                "website": "www.pluit-hospital.com",
+                "email": "pluithospital@pluit-hospital.com",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175010,
+                "kode_kelurahan": 3175010004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.799835,
+                    -6.125572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 36,
+                "nama_rsu": "Duta Indah",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Teluk Gong Raya  Nomor 12",
+                    "latitude": -6.138351,
+                    "longitude": 106.783676
+                },
+                "kode_pos": 14450,
+                "telepon": [
+                    "66676188"
+                ],
+                "faximile": [
+                    "666676190"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175010,
+                "kode_kelurahan": 3175010003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.783676,
+                    -6.138351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 37,
+                "nama_rsu": "Pantai Indah Kapuk",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Pantai Indah Utara 3 Sek. Utr. Tmr Blok T",
+                    "latitude": -6.111786,
+                    "longitude": 106.752617
+                },
+                "kode_pos": 14460,
+                "telepon": [
+                    "5880911"
+                ],
+                "faximile": [
+                    "5880910"
+                ],
+                "website": "www.pikhospital.co.id",
+                "email": "pr@pikhospital.co.id",
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175010,
+                "kode_kelurahan": 3175010002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.752617,
+                    -6.111786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 39,
+                "nama_rsu": "Pelni Petamburan",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Aip II K. S. Tubun No. 92-94",
+                    "latitude": -6.193323,
+                    "longitude": 106.804817
+                },
+                "kode_pos": 11410,
+                "telepon": [
+                    "5480608"
+                ],
+                "faximile": [
+                    "5483145"
+                ],
+                "website": null,
+                "email": "info@rspelni.co.id, danty@rspelni.net",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174030,
+                "kode_kelurahan": 3174030002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.804817,
+                    -6.193323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 40,
+                "nama_rsu": "Bhakti Mulia",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Aipda K. S. Tubun No. 79",
+                    "latitude": -6.199652,
+                    "longitude": 106.800537
+                },
+                "kode_pos": 11410,
+                "telepon": [
+                    "5481625",
+                    "5481262"
+                ],
+                "faximile": [
+                    "5331544"
+                ],
+                "website": null,
+                "email": "rs.bhaktimulia@yahoo.co.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174030,
+                "kode_kelurahan": 3174030002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.800537,
+                    -6.199652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 41,
+                "nama_rsu": "Sumber Waras ",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Kyai Tapa No. 1",
+                    "latitude": -6.167247,
+                    "longitude": 106.79837
+                },
+                "kode_pos": 11440,
+                "telepon": [
+                    "5682011-5663726"
+                ],
+                "faximile": [
+                    "5673122"
+                ],
+                "website": "www.rssumberwaras.com",
+                "email": "bambang.heri@gmail.com, sekretariat@rssumberwaras.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174040,
+                "kode_kelurahan": 3174040003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.79837,
+                    -6.167247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 42,
+                "nama_rsu": "Royal Taruma",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Daan Mogot  No. 34",
+                    "latitude": -6.166489,
+                    "longitude": 106.785637
+                },
+                "kode_pos": 11470,
+                "telepon": [
+                    "56958338",
+                    "56967788"
+                ],
+                "faximile": [
+                    "56958589"
+                ],
+                "website": "www.rs-royaltaruma.com",
+                "email": "direksi@rs-royaltaruma.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174040,
+                "kode_kelurahan": 3174040001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.785637,
+                    -6.166489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 43,
+                "nama_rsu": "Patria IKKT",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan Cendrawasih Nomor 1 Komp.Dep.Han, Mabes TNI  Slipi",
+                    "latitude": -6.197132,
+                    "longitude": 106.7929
+                },
+                "kode_pos": 11480,
+                "telepon": [
+                    "5308981-5308984"
+                ],
+                "faximile": [
+                    "5346387"
+                ],
+                "website": null,
+                "email": "patria_ikkt@yahoo.co.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174030,
+                "kode_kelurahan": 3174030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7929,
+                    -6.197132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 44,
+                "nama_rsu": "Puri Mandiri Kedoya",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Kedoya Raya / Al-Kamal No. 2",
+                    "latitude": -6.187422,
+                    "longitude": 106.761673
+                },
+                "kode_pos": 11520,
+                "telepon": [
+                    "5802126 ; 5828299"
+                ],
+                "faximile": [
+                    "5816185 ; 5828499"
+                ],
+                "website": null,
+                "email": "customer_service@rspurimandirikedoya.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174020,
+                "kode_kelurahan": 3174020006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.761673,
+                    -6.187422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 45,
+                "nama_rsu": "Grha Kedoya",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Panjang Arteri 26",
+                    "latitude": -6.168242,
+                    "longitude": 106.765175
+                },
+                "kode_pos": 11520,
+                "telepon": [
+                    "56982222",
+                    "29910999"
+                ],
+                "faximile": [
+                    "56982233"
+                ],
+                "website": "www.grhakedoya.com",
+                "email": "info@grhakedoya.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174020,
+                "kode_kelurahan": 3174020007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.765175,
+                    -6.168242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 46,
+                "nama_rsu": "Siloam Hospitals Kebon Jeruk",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Pejuangan Kav. 8",
+                    "latitude": -6.190661,
+                    "longitude": 106.76384
+                },
+                "kode_pos": 11530,
+                "telepon": [
+                    "5300887 ; 8 ; 9"
+                ],
+                "faximile": [
+                    "5321766"
+                ],
+                "website": "www.siloamhospital.com",
+                "email": "info@siloamhospitals.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174020,
+                "kode_kelurahan": 3174020004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.76384,
+                    -6.190661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 47,
+                "nama_rsu": "Medika Permata Hijau",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Kebayoran Lama No. 64 ",
+                    "latitude": -6.218273,
+                    "longitude": 106.77832
+                },
+                "kode_pos": 11560,
+                "telepon": [
+                    "5347411 - 5305288"
+                ],
+                "faximile": [
+                    "5305291"
+                ],
+                "website": "www.rsmph.co.id",
+                "email": "mph-mkt@rad.net.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174020,
+                "kode_kelurahan": 3174020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.77832,
+                    -6.218273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 48,
+                "nama_rsu": "Pondok Indah - Puri Indah",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Puri Indah Raya  Blok S-2",
+                    "latitude": -6.185972,
+                    "longitude": 106.735947
+                },
+                "kode_pos": 11610,
+                "telepon": [
+                    "25695222",
+                    "25695200"
+                ],
+                "faximile": [
+                    "25695205"
+                ],
+                "website": "www.rspondokindah.co.id",
+                "email": "rspi@rspondokindah.co.id",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174010,
+                "kode_kelurahan": 3174010005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.735947,
+                    -6.185972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 49,
+                "nama_rsu": "Cengkareng",
+                "jenis_rsu": "Rumah Sakit Umum Daerah",
+                "location": {
+                    "alamat": "Jl. Kamal Raya, Bumi Cengkareng Indah",
+                    "latitude": -6.142909,
+                    "longitude": 106.735199
+                },
+                "kode_pos": 11730,
+                "telepon": [
+                    "5442692 ",
+                    "54372874 - 6"
+                ],
+                "faximile": [
+                    "54372884 ; 54374844 ",
+                    "5442693"
+                ],
+                "website": "www.rsudcengkareng.com",
+                "email": "hafifahany@rsudcengkareng.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174070,
+                "kode_kelurahan": 3174070005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.735199,
+                    -6.142909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 50,
+                "nama_rsu": "Hermina Daan Mogot",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Kintamani Raya No. 2, Kawasan Daan Mogot Baru",
+                    "latitude": -6.152913,
+                    "longitude": 106.71241
+                },
+                "kode_pos": 11840,
+                "telepon": [
+                    "5408989 - 5411109"
+                ],
+                "faximile": [
+                    "5449869"
+                ],
+                "website": "www.herminahospitalgroup.com",
+                "email": "daanmogot@herminahospitalgroup.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174080,
+                "kode_kelurahan": 3174080002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.71241,
+                    -6.152913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 52,
+                "nama_rsu": "Pusat Pertamina ",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Kyai Maja No. 43",
+                    "latitude": -6.240607,
+                    "longitude": 106.792831
+                },
+                "kode_pos": 12120,
+                "telepon": [
+                    "7219202-7200290"
+                ],
+                "faximile": [
+                    "7209811",
+                    "7203540"
+                ],
+                "website": "www.rspp.co.id",
+                "email": "dr.maulana@gmail.com, syafik_a@hotmail.com, humasrspp@pertamedika.co.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.792831,
+                    -6.240607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 53,
+                "nama_rsu": "Muhammadiyah Taman Puring",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Gandaria I / 20",
+                    "latitude": -6.241654,
+                    "longitude": 106.787193
+                },
+                "kode_pos": 12130,
+                "telepon": [
+                    "7208358",
+                    "7250243"
+                ],
+                "faximile": [
+                    "7234823"
+                ],
+                "website": "www.rsiamtp.com",
+                "email": "rsiamtp@rsiamtp.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.787193,
+                    -6.241654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 54,
+                "nama_rsu": "Gandaria",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Gandaria Tengah II No. 6 - 14",
+                    "latitude": -6.244061,
+                    "longitude": 106.790398
+                },
+                "kode_pos": 12140,
+                "telepon": [
+                    "7250718-7203311"
+                ],
+                "faximile": [
+                    "7248175 - 7222038"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171060,
+                "kode_kelurahan": 3171060006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.790398,
+                    -6.244061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 55,
+                "nama_rsu": "Yadika Kebayoran Lama",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Ciputat Raya  Nomor 5",
+                    "latitude": -6.255353,
+                    "longitude": 106.777405
+                },
+                "kode_pos": 12240,
+                "telepon": [
+                    "7291074",
+                    "7291077"
+                ],
+                "faximile": [
+                    "72895046"
+                ],
+                "website": null,
+                "email": "rsyadika@yahoo.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171050,
+                "kode_kelurahan": 3171050002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.777405,
+                    -6.255353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 56,
+                "nama_rsu": "Pondok Indah - Pondok Indah",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Metro Duta Kav. UE,  Pondok Indah",
+                    "latitude": -6.283649,
+                    "longitude": 106.781296
+                },
+                "kode_pos": 12310,
+                "telepon": [
+                    "7657525-7692252"
+                ],
+                "faximile": [
+                    "7502324"
+                ],
+                "website": "www.rspondokindah.co.id",
+                "email": "rspi@rspondokindah.co.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171050,
+                "kode_kelurahan": 3171050001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.781296,
+                    -6.283649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 57,
+                "nama_rsu": "Bhayangkara Sespimma Polri",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Ciputat Raya Nomor 40",
+                    "latitude": -6.286687,
+                    "longitude": 106.770523
+                },
+                "kode_pos": 12310,
+                "telepon": [
+                    "021-7650384 ; 7666087 ; 7692919"
+                ],
+                "faximile": [
+                    "021-7666106"
+                ],
+                "website": null,
+                "email": "rs.sespimma_polri@yahoo.co.id, yenifebrianti66@yahoo.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171050,
+                "kode_kelurahan": 3171050001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.770523,
+                    -6.286687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 58,
+                "nama_rsu": "Dr. Suyoto",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. R.C. Veteran No. 178",
+                    "latitude": -6.267451,
+                    "longitude": 106.766129
+                },
+                "kode_pos": 12330,
+                "telepon": [
+                    "7342581"
+                ],
+                "faximile": [
+                    "77884000",
+                    "73425817"
+                ],
+                "website": "www.suyotohospital.com",
+                "email": "pemasaranrsds@yahoo.com, humas@suyotohospital.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171040,
+                "kode_kelurahan": 3171040001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.766129,
+                    -6.267451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 59,
+                "nama_rsu": "Fatmawati ",
+                "jenis_rsu": "Rumah Sakit Umum Pusat",
+                "location": {
+                    "alamat": "Jl. RS. Fatmawati",
+                    "latitude": -6.295009,
+                    "longitude": 106.795578
+                },
+                "kode_pos": 12430,
+                "telepon": [
+                    "7660552",
+                    "7501524"
+                ],
+                "faximile": [
+                    "7690123 - 7504022"
+                ],
+                "website": "www.fatmawatihospital.com",
+                "email": "rsupf@fatmawatihospita.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171030,
+                "kode_kelurahan": 3171030003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.795578,
+                    -6.295009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 60,
+                "nama_rsu": "Setia Mitra",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. RS Fatmawati No. 80 - 82",
+                    "latitude": -6.281337,
+                    "longitude": 106.795708
+                },
+                "kode_pos": 12430,
+                "telepon": [
+                    "7656000"
+                ],
+                "faximile": [
+                    "7656875"
+                ],
+                "website": null,
+                "email": "dwilaras_p@yahoo.com,  info@rssetiamitra.co.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171030,
+                "kode_kelurahan": 3171030003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.795708,
+                    -6.281337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 61,
+                "nama_rsu": "Siloam TB Simatupang",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. RA. Kartini No.8",
+                    "latitude": -6.292365,
+                    "longitude": 106.783905
+                },
+                "kode_pos": 12430,
+                "telepon": [
+                    "29531900"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": "www.siloamhospital.com",
+                "email": "irna.hardiawan@siloamhospitals.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171030,
+                "kode_kelurahan": 3171030001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.783905,
+                    -6.292365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 62,
+                "nama_rsu": "Mayapada",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Lebak Bulus I  RT.006 / RW.004",
+                    "latitude": -6.298736,
+                    "longitude": 106.785728
+                },
+                "kode_pos": 12440,
+                "telepon": [
+                    ""
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171030,
+                "kode_kelurahan": 3171030003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.785728,
+                    -6.298736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 63,
+                "nama_rsu": "Prikasih",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. RS. Fatmawati No. 74  RT.005 / RW.01",
+                    "latitude": -6.314489,
+                    "longitude": 106.793518
+                },
+                "kode_pos": 12450,
+                "telepon": [
+                    "7501192",
+                    "7504669"
+                ],
+                "faximile": [
+                    "7505148"
+                ],
+                "website": "www.rsprikasih.com",
+                "email": "prikasih@cbn.net.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171030,
+                "kode_kelurahan": 3171030002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.793518,
+                    -6.314489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 64,
+                "nama_rsu": "Siaga Raya",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Siaga Raya Kav. 4 - 8",
+                    "latitude": -6.272883,
+                    "longitude": 106.838951
+                },
+                "kode_pos": 12510,
+                "telepon": [
+                    "7972750-7972790"
+                ],
+                "faximile": [
+                    "7970494"
+                ],
+                "website": null,
+                "email": "rs_sigaraya@pdpersi.co",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171020,
+                "kode_kelurahan": 3171020006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.838951,
+                    -6.272883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 65,
+                "nama_rsu": "Rumkital Marinir Cilandak",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Cilandak  KKO",
+                    "latitude": -6.305478,
+                    "longitude": 106.813354
+                },
+                "kode_pos": 12560,
+                "telepon": [
+                    "7805296",
+                    "7805415"
+                ],
+                "faximile": [
+                    "7812764"
+                ],
+                "website": null,
+                "email": "enytiar@yahoo.com, layanan@rsmarinir.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171020,
+                "kode_kelurahan": 3171020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.813354,
+                    -6.305478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 66,
+                "nama_rsu": "Ali Sibroh Malisi",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Warung Silah  Nomor 1  RT.008 / RW.05",
+                    "latitude": -6.344991,
+                    "longitude": 106.813705
+                },
+                "kode_pos": 12630,
+                "telepon": [
+                    "021-7868172",
+                    "7270681"
+                ],
+                "faximile": [
+                    "78885063"
+                ],
+                "website": null,
+                "email": "md_azri@yahoo.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171010,
+                "kode_kelurahan": 3171010001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.813705,
+                    -6.344991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 67,
+                "nama_rsu": "Zahirah",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Sirsak No. 21",
+                    "latitude": -6.335719,
+                    "longitude": 106.823326
+                },
+                "kode_pos": 12690,
+                "telepon": [
+                    "7872210",
+                    "78888723"
+                ],
+                "faximile": [
+                    "7270013"
+                ],
+                "website": "www.rszahirah.com",
+                "email": "marketing@rszahirah.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171010,
+                "kode_kelurahan": 3171010004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.823326,
+                    -6.335719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 68,
+                "nama_rsu": "Jakarta Medical Center",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Warung Buncit Raya No. 15",
+                    "latitude": -6.271507,
+                    "longitude": 106.830147
+                },
+                "kode_pos": 12740,
+                "telepon": [
+                    "7985177-7980888"
+                ],
+                "faximile": [
+                    "7940838"
+                ],
+                "website": null,
+                "email": "rs_jmc@cbn.net.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171080,
+                "kode_kelurahan": 3171080001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.830147,
+                    -6.271507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 69,
+                "nama_rsu": "Siloam Asri",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan Duren Tiga Raya Nomor 20  RT.004 / RW.01",
+                    "latitude": -6.254546,
+                    "longitude": 106.83213
+                },
+                "kode_pos": 12760,
+                "telepon": [
+                    "7992211"
+                ],
+                "faximile": [
+                    "7996505"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171080,
+                "kode_kelurahan": 3171080003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.83213,
+                    -6.254546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 70,
+                "nama_rsu": "Tria Dipa",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Pasar Minggu No. 3 A",
+                    "latitude": -6.250846,
+                    "longitude": 106.841957
+                },
+                "kode_pos": 12780,
+                "telepon": [
+                    "7974071-73"
+                ],
+                "faximile": [
+                    "7974074"
+                ],
+                "website": null,
+                "email": "customer@rs-triadipa.com",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171080,
+                "kode_kelurahan": 3171080004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.841957,
+                    -6.250846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 71,
+                "nama_rsu": "Tebet",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. MT. Haryono No. 8",
+                    "latitude": -6.242549,
+                    "longitude": 106.849945
+                },
+                "kode_pos": 12810,
+                "telepon": [
+                    "8307540"
+                ],
+                "faximile": [
+                    "8311760"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171090,
+                "kode_kelurahan": 3171090002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.849945,
+                    -6.242549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 72,
+                "nama_rsu": "Jakarta",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Jend. Sudirman Kav. 49 ",
+                    "latitude": -6.218441,
+                    "longitude": 106.816101
+                },
+                "kode_pos": 12930,
+                "telepon": [
+                    "5732241"
+                ],
+                "faximile": [
+                    "5710240 ; 5710249"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171100,
+                "kode_kelurahan": 3171100001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.816101,
+                    -6.218441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 73,
+                "nama_rsu": "Metropolitan Medical Center",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. HR. Rasuna Said Kav. C-21 Kuningan",
+                    "latitude": -6.219806,
+                    "longitude": 106.832146
+                },
+                "kode_pos": 12940,
+                "telepon": [
+                    "5203435"
+                ],
+                "faximile": [
+                    "5203417"
+                ],
+                "website": "www.rsmmc.co.id/mmc@rsmmc.co.id",
+                "email": "mmc@rsmmc.co.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171100,
+                "kode_kelurahan": 3171100003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.832146,
+                    -6.219806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 74,
+                "nama_rsu": "Medistra",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Jenderal Gatot Subroto Kav. 59",
+                    "latitude": -6.239865,
+                    "longitude": 106.833328
+                },
+                "kode_pos": 12950,
+                "telepon": [
+                    "5210200"
+                ],
+                "faximile": [
+                    "5210184"
+                ],
+                "website": null,
+                "email": "customercare@medistra.com, medistra@cbn.net.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171100,
+                "kode_kelurahan": 3171100002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.833328,
+                    -6.239865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 75,
+                "nama_rsu": "Agung",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Sultan Agung No. 67",
+                    "latitude": -6.209167,
+                    "longitude": 106.846275
+                },
+                "kode_pos": 12970,
+                "telepon": [
+                    "8295971-8294955"
+                ],
+                "faximile": [
+                    "8305791"
+                ],
+                "website": null,
+                "email": "rsagung@pdpersi.co.id",
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171100,
+                "kode_kelurahan": 3171100006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.846275,
+                    -6.209167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 77,
+                "nama_rsu": "Columbia Asia Pulomas",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Kayu Putih Raya  No. 1  RT.003 / RW.016",
+                    "latitude": -6.182741,
+                    "longitude": 106.891495
+                },
+                "kode_pos": 13210,
+                "telepon": [
+                    "47883195"
+                ],
+                "faximile": [
+                    "47883199"
+                ],
+                "website": "www.rsadmira.com",
+                "email": "rsadmira@rsadmira.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.891495,
+                    -6.182741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 78,
+                "nama_rsu": "Omni Medical Center",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Pulomas Barat VI No.20",
+                    "latitude": -6.17582,
+                    "longitude": 106.885246
+                },
+                "kode_pos": 13210,
+                "telepon": [
+                    "4723332-4722719"
+                ],
+                "faximile": [
+                    "4718081"
+                ],
+                "website": "www.omni-hospitals.com",
+                "email": "normariati70@yahoo.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.885246,
+                    -6.17582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 79,
+                "nama_rsu": "Kartika Pulomas ",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Pulomas Timur K. Nomor 2",
+                    "latitude": -6.17582,
+                    "longitude": 106.885246
+                },
+                "kode_pos": 13210,
+                "telepon": [
+                    "4723402 - 4703333"
+                ],
+                "faximile": [
+                    "4723402"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.885246,
+                    -6.17582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 80,
+                "nama_rsu": "Aneka Tambang Medika (Antam Medika)",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Pemuda Raya No. 1A RT.002 / RW.07",
+                    "latitude": -6.192658,
+                    "longitude": 106.902603
+                },
+                "kode_pos": 13210,
+                "telepon": [
+                    "29378939",
+                    "29378943"
+                ],
+                "faximile": [
+                    "29378960"
+                ],
+                "website": "www.antammedika.co.id",
+                "email": "rumahsakit@antammedika.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.902603,
+                    -6.192658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 81,
+                "nama_rsu": "Persahabatan ",
+                "jenis_rsu": "Rumah Sakit Umum Pusat",
+                "location": {
+                    "alamat": "Jl. Persahabatan Raya ",
+                    "latitude": -6.202596,
+                    "longitude": 106.885071
+                },
+                "kode_pos": 13220,
+                "telepon": [
+                    "4891708-4890696"
+                ],
+                "faximile": [
+                    "4711222",
+                    "478608873"
+                ],
+                "website": "www.persahabatan.co.id",
+                "email": "rsp@pcraahabatan.ce.1d",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.885071,
+                    -6.202596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 82,
+                "nama_rsu": "Dharma Nugraha",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Balai Pustaka Baru No. 19",
+                    "latitude": -6.195859,
+                    "longitude": 106.886421
+                },
+                "kode_pos": 13220,
+                "telepon": [
+                    "4707433-4707437"
+                ],
+                "faximile": [
+                    "4707428"
+                ],
+                "website": null,
+                "email": "dharmanugraha@yahoo.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.886421,
+                    -6.195859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 83,
+                "nama_rsu": "Mediros",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Perintis Kemerdekaan Kav. 149",
+                    "latitude": -6.179724,
+                    "longitude": 106.903748
+                },
+                "kode_pos": 13260,
+                "telepon": [
+                    "4721336 - 37"
+                ],
+                "faximile": [
+                    "4891937",
+                    "4891937"
+                ],
+                "website": "www.rs-mediros.com",
+                "email": "lumentagrace@yahoo.com, rsmediros@cbn.net.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172090,
+                "kode_kelurahan": 3172090007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.903748,
+                    -6.179724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 84,
+                "nama_rsu": "Premier Jatinegara",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Jatinegara Timur No. 85 - 87",
+                    "latitude": -6.221951,
+                    "longitude": 106.868935
+                },
+                "kode_pos": 13310,
+                "telepon": [
+                    "2800666",
+                    "2800777",
+                    "2800888"
+                ],
+                "faximile": [
+                    "2800755"
+                ],
+                "website": "www.ramsayhealth.co.id",
+                "email": "rspremier.jatinegara@ramsayhealth.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172060,
+                "kode_kelurahan": 3172060007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.868935,
+                    -6.221951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 85,
+                "nama_rsu": "Pengayoman Cipinang",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Bekasi Timur 170 B",
+                    "latitude": -6.221951,
+                    "longitude": 106.868935
+                },
+                "kode_pos": 13410,
+                "telepon": [
+                    "085210432196",
+                    "85914558"
+                ],
+                "faximile": [
+                    "85909644"
+                ],
+                "website": null,
+                "email": "rspengayoman.dki@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172060,
+                "kode_kelurahan": 3172060007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.868935,
+                    -6.221951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 86,
+                "nama_rsu": "Yadika Pondok Bambu",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Pahlawan Revolusi No. 47",
+                    "latitude": -6.237237,
+                    "longitude": 106.898796
+                },
+                "kode_pos": 13430,
+                "telepon": [
+                    "8615754-8610756"
+                ],
+                "faximile": [
+                    "8631708"
+                ],
+                "website": null,
+                "email": "rsyadika@yahoo.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.898796,
+                    -6.237237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 87,
+                "nama_rsu": "Islam Jakarta Pondok Kopi",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Pondok Kopi",
+                    "latitude": -6.220089,
+                    "longitude": 106.939682
+                },
+                "kode_pos": 13460,
+                "telepon": [
+                    "8610471 ",
+                    "8630654"
+                ],
+                "faximile": [
+                    "8611101"
+                ],
+                "website": "www.rsijpondokkopi.co.id",
+                "email": "aliyus_k@yahoo.com, ariefb12@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172070,
+                "kode_kelurahan": 3172070004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.939682,
+                    -6.220089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 88,
+                "nama_rsu": "Dik Pusdikkes Kodiklat TNI AD",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Bogor",
+                    "latitude": -6.275258,
+                    "longitude": 106.869537
+                },
+                "kode_pos": 13510,
+                "telepon": [
+                    "8092358",
+                    "8003491"
+                ],
+                "faximile": [
+                    "8092706",
+                    "80887304"
+                ],
+                "website": "www.pusdikkes.com",
+                "email": "rs.dik.pusdikkes@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.869537,
+                    -6.275258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 89,
+                "nama_rsu": "Bhayangkara Tk.I  R. Said Sukanto",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. RS Polri",
+                    "latitude": -6.269806,
+                    "longitude": 106.870674
+                },
+                "kode_pos": 13510,
+                "telepon": [
+                    "8093288"
+                ],
+                "faximile": [
+                    "8094005"
+                ],
+                "website": null,
+                "email": "rs_polri@pdpersi.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.870674,
+                    -6.269806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 90,
+                "nama_rsu": "Al-Fauzan",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Pedati Nomor 3  RT.005 / RW.07",
+                    "latitude": -6.297779,
+                    "longitude": 106.870377
+                },
+                "kode_pos": 13540,
+                "telepon": [
+                    "8402821"
+                ],
+                "faximile": [
+                    "87710318 "
+                ],
+                "website": "www.jih.co.id",
+                "email": "jakartaislamichospital@yahoo.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.870377,
+                    -6.297779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 91,
+                "nama_rsu": "Haji Jakarta",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Pondok Gede No. 4",
+                    "latitude": -6.290169,
+                    "longitude": 106.888847
+                },
+                "kode_pos": 13560,
+                "telepon": [
+                    "8000693-695"
+                ],
+                "faximile": [
+                    "80876209",
+                    "8000702"
+                ],
+                "website": null,
+                "email": "keliek_marwanto@yahoo.co.id, rshaji@pdpersi.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172040,
+                "kode_kelurahan": 3172040001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.888847,
+                    -6.290169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 92,
+                "nama_rsu": "Pusat Angkatan Udara Dr. Esnawan Antariksa",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Merpati No. 2,  Komplek Rajawali",
+                    "latitude": -6.257015,
+                    "longitude": 106.891922
+                },
+                "kode_pos": 13610,
+                "telepon": [
+                    "8091716-8093943"
+                ],
+                "faximile": [
+                    "8098665"
+                ],
+                "website": null,
+                "email": "ruspau@pdpersi.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172040,
+                "kode_kelurahan": 3172040004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.891922,
+                    -6.257015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 93,
+                "nama_rsu": "Harum Sisma Medika",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Inspeksi Tarum Barat - Kalimalang",
+                    "latitude": -6.24808,
+                    "longitude": 106.90963
+                },
+                "kode_pos": 13620,
+                "telepon": [
+                    "8617212-13"
+                ],
+                "faximile": [
+                    "8601030"
+                ],
+                "website": null,
+                "email": "erwintyrana@sismamedika.com, rsharum@pdpersi.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172040,
+                "kode_kelurahan": 3172040005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.90963,
+                    -6.24808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 94,
+                "nama_rsu": "Budhi Asih ",
+                "jenis_rsu": "Rumah Sakit Umum Daerah",
+                "location": {
+                    "alamat": "Jl. Dewi Sartika  Cawang III  No. 200",
+                    "latitude": -6.256015,
+                    "longitude": 106.862869
+                },
+                "kode_pos": 13630,
+                "telepon": [
+                    "8090282",
+                    "8092482"
+                ],
+                "faximile": [
+                    "8009157-8007348"
+                ],
+                "website": "www.rsudbudhiasih.com",
+                "email": "budhiasih@ymail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.862869,
+                    -6.256015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 95,
+                "nama_rsu": "Universitas Kristen Indonesia",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Mayjen Sutoyo No. 2",
+                    "latitude": -6.25092,
+                    "longitude": 106.872002
+                },
+                "kode_pos": 13630,
+                "telepon": [
+                    "8092317",
+                    "8092831",
+                    "8010523"
+                ],
+                "faximile": [
+                    "8092445"
+                ],
+                "website": null,
+                "email": "rsuuki@yahoo.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050007
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.872002,
+                    -6.25092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 96,
+                "nama_rsu": "Olahraga Nasional",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Jambore  Nomor 1",
+                    "latitude": -6.368448,
+                    "longitude": 106.892929
+                },
+                "kode_pos": 13720,
+                "telepon": [
+                    "87753977"
+                ],
+                "faximile": [
+                    "021-87753977"
+                ],
+                "website": null,
+                "email": "rsolahragacibubur@gmail.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172020,
+                "kode_kelurahan": 3172020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.892929,
+                    -6.368448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 97,
+                "nama_rsu": "Tingkat IV Cijantung Kesdam Jaya",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Mahoni,  Cijantung II ",
+                    "latitude": -6.309916,
+                    "longitude": 106.859673
+                },
+                "kode_pos": 13760,
+                "telepon": [
+                    "8400535"
+                ],
+                "faximile": [
+                    "8407886"
+                ],
+                "website": null,
+                "email": "kesdamjaya_cijantung@yahoo.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172010,
+                "kode_kelurahan": 3172010005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.859673,
+                    -6.309916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 98,
+                "nama_rsu": "Pasar Rebo",
+                "jenis_rsu": "Rumah Sakit Umum Daerah",
+                "location": {
+                    "alamat": "Jl. Letjen T. B. Simatupang No. 30",
+                    "latitude": -6.304108,
+                    "longitude": 106.861931
+                },
+                "kode_pos": 13760,
+                "telepon": [
+                    "8401127/ 8400109"
+                ],
+                "faximile": [
+                    "8411159"
+                ],
+                "website": "www.rsudpasarrebo.com",
+                "email": "rsudpasarrebo@yahoo.com",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172010,
+                "kode_kelurahan": 3172010005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.861931,
+                    -6.304108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 99,
+                "nama_rsu": "Adhyaksa",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Hankam Raya No.60",
+                    "latitude": -6.304108,
+                    "longitude": 106.861931
+                },
+                "kode_pos": 13820,
+                "telepon": [
+                    "021-29462345"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172010,
+                "kode_kelurahan": 3172010005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.861931,
+                    -6.304108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 100,
+                "nama_rsu": "Harapan Bunda",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jl. Raya Bogor KM. 22 No. 44",
+                    "latitude": -6.29439,
+                    "longitude": 106.880798
+                },
+                "kode_pos": 13830,
+                "telepon": [
+                    "8400257"
+                ],
+                "faximile": [
+                    "87781247"
+                ],
+                "website": null,
+                "email": "hrd@rsharapanbunda.com, harapanbunda@pdpersi.co.id",
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.880798,
+                    -6.29439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 101,
+                "nama_rsu": "Harapan Jayakarta ",
+                "jenis_rsu": "Rumah Sakit Umum",
+                "location": {
+                    "alamat": "Jalan  Bekasi Timur Raya  Nomor 6  KM.18",
+                    "latitude": -6.195012,
+                    "longitude": 106.906258
+                },
+                "kode_pos": 13930,
+                "telepon": [
+                    "4608886",
+                    "4603916",
+                    "46821726"
+                ],
+                "faximile": [
+                    "4608863"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172080,
+                "kode_kelurahan": 3172080001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.906258,
+                    -6.195012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 102,
+                "nama_rsu": "Kepulauan Seribu",
+                "jenis_rsu": "Rumah Sakit Umum Daerah",
+                "location": {
+                    "alamat": "Pulau Pramuka",
+                    "latitude": -5.744879,
+                    "longitude": 106.613396
+                },
+                "kode_pos": 14510,
+                "telepon": [
+                    "021-33230332",
+                    "33312388",
+                    "36571981"
+                ],
+                "faximile": [
+                    "33312388",
+                    "37175900"
+                ],
+                "website": null,
+                "email": "rsukepulauanseribu@yahoo.co.id",
+                "kode_kota": 3101,
+                "kode_kecamatan": 3101020,
+                "kode_kelurahan": 3101020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.613396,
+                    -5.744879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 103,
+                "nama_rsu": "Cempaka Putih",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Rawasari Selatan  Nomor 1",
+                    "latitude": -6.184666,
+                    "longitude": 106.869911
+                },
+                "kode_pos": 10510,
+                "telepon": [
+                    "4219548",
+                    "42801341"
+                ],
+                "faximile": [
+                    "4219548",
+                    "42801341"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173050,
+                "kode_kelurahan": 3173050002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.869911,
+                    -6.184666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 104,
+                "nama_rsu": "Sawah Besar",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Dwiwarna Raya  Nomor 6-8",
+                    "latitude": -6.149973,
+                    "longitude": 106.829605
+                },
+                "kode_pos": 10740,
+                "telepon": [
+                    "6289080",
+                    "4224041"
+                ],
+                "faximile": [
+                    "6012240"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173070,
+                "kode_kelurahan": 3173070004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.829605,
+                    -6.149973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 105,
+                "nama_rsu": "Johar Baru",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Tanah Tinggi XII",
+                    "latitude": -6.181071,
+                    "longitude": 106.849373
+                },
+                "kode_pos": 10540,
+                "telepon": [
+                    " 4246359"
+                ],
+                "faximile": [
+                    "4224041"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173040,
+                "kode_kelurahan": 3173040003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.849373,
+                    -6.181071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 106,
+                "nama_rsu": "Kemayoran",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Serdang Baru I",
+                    "latitude": -6.1608,
+                    "longitude": 106.862289
+                },
+                "kode_pos": 10650,
+                "telepon": [
+                    "4801847"
+                ],
+                "faximile": [
+                    "4801846"
+                ],
+                "website": null,
+                "email": "rsukemayoran@gmail.com",
+                "kode_kota": 3173,
+                "kode_kecamatan": 3173060,
+                "kode_kelurahan": 3173060004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.862289,
+                    -6.1608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 107,
+                "nama_rsu": "Koja",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Walang Permai  Nomor 39",
+                    "latitude": -6.127233,
+                    "longitude": 106.906982
+                },
+                "kode_pos": 14260,
+                "telepon": [
+                    "43905651",
+                    "4358809"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175040,
+                "kode_kelurahan": 3175040003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.906982,
+                    -6.127233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 108,
+                "nama_rsu": "Cilincing",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Madya Kebantenan  Nomor 4",
+                    "latitude": -6.118146,
+                    "longitude": 106.927902
+                },
+                "kode_pos": 14130,
+                "telepon": [
+                    "4412889",
+                    "4416367"
+                ],
+                "faximile": [
+                    "4412889",
+                    "4416367"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175060,
+                "kode_kelurahan": 3175060005
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.927902,
+                    -6.118146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 109,
+                "nama_rsu": "Pademangan",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Budi Mulia Raya  Nomor 2  RT.0015 / RW.011",
+                    "latitude": -6.133254,
+                    "longitude": 106.839401
+                },
+                "kode_pos": 14420,
+                "telepon": [
+                    "021-6452346"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3175,
+                "kode_kecamatan": 3175020,
+                "kode_kelurahan": 3175020001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.839401,
+                    -6.133254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 110,
+                "nama_rsu": "Kembangan",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Topaz Blok F2  Nomor 3",
+                    "latitude": -6.181012,
+                    "longitude": 106.733223
+                },
+                "kode_pos": 11620,
+                "telepon": [
+                    "5870834"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174010,
+                "kode_kelurahan": 3174010006
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.733223,
+                    -6.181012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 111,
+                "nama_rsu": "Kalideres",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Satu Maret  Nomor 48  RT.001 / RW.04",
+                    "latitude": -6.128841,
+                    "longitude": 106.704369
+                },
+                "kode_pos": 11830,
+                "telepon": [
+                    "54390576"
+                ],
+                "faximile": [
+                    "54390576"
+                ],
+                "website": null,
+                "email": "rsukalideres@gmail.com",
+                "kode_kota": 3174,
+                "kode_kecamatan": 3174080,
+                "kode_kelurahan": 3174080003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.704369,
+                    -6.128841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 112,
+                "nama_rsu": "Jagakarsa",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Mohamad Kahfi 1  Nomor 27 A",
+                    "latitude": -6.311328,
+                    "longitude": 106.813515
+                },
+                "kode_pos": 12620,
+                "telepon": [
+                    "7864707"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171010,
+                "kode_kelurahan": 3171010004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.813515,
+                    -6.311328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 113,
+                "nama_rsu": "Tebet",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Prof. Supomo, SH  Nomor 54",
+                    "latitude": -6.231592,
+                    "longitude": 106.846008
+                },
+                "kode_pos": 12810,
+                "telepon": [
+                    "8314955"
+                ],
+                "faximile": [
+                    "8296918"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171090,
+                "kode_kelurahan": 3171090002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.846008,
+                    -6.231592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 114,
+                "nama_rsu": "Mampang Prapatan",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Kapten Tendean  Nomor 9",
+                    "latitude": -6.240428,
+                    "longitude": 106.826988
+                },
+                "kode_pos": 12790,
+                "telepon": [
+                    "79192187"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171070,
+                "kode_kelurahan": 3171070004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.826988,
+                    -6.240428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 115,
+                "nama_rsu": "Pesanggrahan",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Cenek I  Nomor 1",
+                    "latitude": -6.258924,
+                    "longitude": 106.75766
+                },
+                "kode_pos": 12320,
+                "telepon": [
+                    "7356087"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3171,
+                "kode_kecamatan": 3171040,
+                "kode_kelurahan": 3171040002
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.75766,
+                    -6.258924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 116,
+                "nama_rsu": "Kramat Jati",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Raya Inpres  Nomor 48",
+                    "latitude": -6.28674,
+                    "longitude": 106.862251
+                },
+                "kode_pos": 13540,
+                "telepon": [
+                    "87791152",
+                    "87793604"
+                ],
+                "faximile": [
+                    " 87793604"
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172050,
+                "kode_kelurahan": 3172050003
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.862251,
+                    -6.28674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 117,
+                "nama_rsu": "Ciracas",
+                "jenis_rsu": "Rumah Sakit Umum Kecamatan",
+                "location": {
+                    "alamat": "Jalan  Raya Lapangan Tembak",
+                    "latitude": -6.25801,
+                    "longitude": 106.905167
+                },
+                "kode_pos": 13720,
+                "telepon": [
+                    "8718995"
+                ],
+                "faximile": [
+                    ""
+                ],
+                "website": null,
+                "email": null,
+                "kode_kota": 3172,
+                "kode_kecamatan": 3172040,
+                "kode_kelurahan": 3172040004
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.905167,
+                    -6.25801
+                ]
+            }
+        }
+    ]
+}
