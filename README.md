@@ -10,7 +10,7 @@
 [![Travis](https://img.shields.io/travis/mazipan/RumahSakitJakarta.svg)](https://travis-ci.org/mazipan/RumahSakitJakarta)
 [![codecov](https://codecov.io/gh/mazipan/RumahSakitJakarta/branch/master/graph/badge.svg)](https://codecov.io/gh/mazipan/RumahSakitJakarta)
 
-[![RumahSakitJakarta](https://raw.githubusercontent.com/mazipan/RumahSakitJakarta/master/static/images/RumahSakitJakarta-logo.png)](https://mazipan.github.io/RumahSakitJakarta/)
+[![RumahSakitJakarta](https://github.com/mazipan/RumahSakitJakarta/blob/master/images/RumahSakitJakarta-logo.png?raw=true)](https://mazipan.github.io/RumahSakitJakarta/)
 
 ## Source Data
 https://api.jakarta.go.id/
