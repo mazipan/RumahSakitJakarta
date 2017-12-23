@@ -19,7 +19,6 @@ Vue.use(VueLazyload, {
 Vue.use(SocialSharing)
 
 if (process.env.NODE_ENV !== 'production') {
-  // require('vue-mock')
   Vue.config.devtools = true
 }
 

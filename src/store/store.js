@@ -54,9 +54,11 @@ export const mutations = {
 
 export const actions = {
   getPuskesmasList ({commit}) {
+    console.log('calling action getPuskesmasList()')
     commit('setLoading', true)
     axios.get(`${basePath}puskesmas.json`)
     .then(function (response) {
+      console.log('response ', response)
       commit('setLoading', false)
       let array = response.data.features
       array.sort(function(a, b){
@@ -71,9 +73,11 @@ export const actions = {
     });
   },
   getRsuList ({commit}) {
+    console.log('calling action getRsuList()')
     commit('setLoading', true)
     axios.get(`${basePath}rumahsakitumum.json`)
     .then(function (response) {
+      console.log('response ', response)
       commit('setLoading', false)
       let array = response.data.features
       array.sort(function(a, b){
@@ -88,9 +92,11 @@ export const actions = {
     });
   },
   getRskList ({commit}) {
+    console.log('calling action getRskList()')
     commit('setLoading', true)
     axios.get(`${basePath}rumahsakitkhusus.json`)
     .then(function (response) {
+      console.log('response ', response)
       commit('setLoading', false)
       let array = response.data.features
       array.sort(function(a, b){
@@ -105,6 +111,7 @@ export const actions = {
     });
   },
   updateTabActive ({commit}, tabActive) {
+    console.log('calling action updateTabActive()')
     commit('setTabActive', tabActive)
   }
 }
