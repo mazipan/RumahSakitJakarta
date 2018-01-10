@@ -2,71 +2,80 @@
   <div class="grid__row">
 
     <div class="search">
-      <input class="search__text" type="text" 
-        name="Search" 
-        v-model="searchText" 
+      <input class="search__text" type="text"
+        name="Search"
+        v-model="searchText"
         placeholder="Cari Rumah Sakit Khusus">
     </div>
 
     <div>
-      <span class="highlight">{{filteredList.length}}</span> 
-      data ditemukan      
+      <span class="highlight">{{filteredList.length}}</span>
+      data ditemukan
     </div>
     <ul class="rs">
-      <li v-for="item in filteredList" class="item">
-        <div class="left">
-          <i class="icon fa fa-wheelchair"></i>        
+      <li v-for="(item, index) in filteredList" :key="item.properties.id">
+        <div class="item">
+          <div class="left">
+            <i class="icon fa fa-wheelchair"></i>
+          </div>
+          <div class="right">
+            <div class="title"
+                v-html="highlightText(item.properties.nama_rsk, searchText)">
+            </div>
+            <div class="small-text"
+                v-html="highlightText(item.properties.location.alamat, searchText)">
+            </div>
+
+            <div class="telp" v-if="item.properties.telepon.length > 0  && item.properties.telepon[0] !== ''">
+                <i class="fa fa-phone-square" aria-hidden="true"></i>
+                <b v-for="(telepon, index) in item.properties.telepon"
+                    class="telp-item">
+                  {{telepon}}
+                </b>
+            </div>
+            <div class="telp faximile" v-if="item.properties.faximile.length > 0 && item.properties.faximile[0] !== ''">
+                <i class="fa fa-fax" aria-hidden="true"></i>
+                <b v-for="(faximile, index) in item.properties.faximile"
+                    class="telp-item">
+                  {{faximile}}
+                </b>
+            </div>
+
+            <div class="see-map-wrapper">
+              <a
+                :href="'https://www.google.com/maps/search/?api=1&query=' +
+                item.properties.location.latitude + ',' + item.properties.location.longitude"
+                :title="item.properties.nama_rsk"
+                target="_blank"
+                class="see-map">
+                <i class="fa fa-map-marker"></i>
+                Lihat Lokasi
+              </a>
+            </div>
+          </div>
         </div>
-        <div class="right">
-          <div class="title" 
-               v-html="highlightText(item.properties.nama_rsk, searchText)">
-          </div>
-          <div class="small-text"
-               v-html="highlightText(item.properties.location.alamat, searchText)">
-          </div>
 
-          <div class="telp" v-if="item.properties.telepon.length > 0  && item.properties.telepon[0] !== ''">
-              <i class="fa fa-phone-square" aria-hidden="true"></i>  
-              <b v-for="(telepon, index) in item.properties.telepon"
-                  class="telp-item"> 
-                {{telepon}}
-              </b>
-          </div>
-          <div class="telp faximile" v-if="item.properties.faximile.length > 0 && item.properties.faximile[0] !== ''">
-              <i class="fa fa-fax" aria-hidden="true"></i>  
-              <b v-for="(faximile, index) in item.properties.faximile"
-                  class="telp-item"> 
-                {{faximile}}
-              </b>
-          </div>
-
-          <div class="see-map-wrapper">
-             <a 
-              :href="'https://www.google.com/maps/search/?api=1&query=' + 
-              item.properties.location.latitude + ',' + item.properties.location.longitude" 
-              :title="item.properties.nama_rsk" 
-              target="_blank" 
-              class="see-map">
-              <i class="fa fa-map-marker"></i> 
-              Lihat Lokasi
-             </a>         
-          </div>          
+        <div class="google-ads" v-if="(index > 0) && (index%5 === 0)">
+          <InFeedAdsense
+              root-class="wrapper VueInFeedAdsense"
+              :data-ad-layout-key="layout"
+              :data-ad-client="client"
+              :data-ad-slot="slotInFeed">
+          </InFeedAdsense>
         </div>
       </li>
     </ul>
-    
+
   </div>
 </template>
 
 <script>
-import TabBlock from 'components/TabBlock.vue'
 import { highlightText } from '../util'
+import mixin from '@/mixins'
 
 export default {
   name: 'RSK',
-  components: {
-    TabBlock
-  },
+  mixins: [mixin],
   data () {
     return {
       searchText: '',
@@ -80,8 +89,8 @@ export default {
     filteredList() {
       let self = this
       return self.rskList.filter(item => {
-        let isShowing = 
-        item.properties.nama_rsk.toLowerCase().includes(self.searchText.toLowerCase()) || 
+        let isShowing =
+        item.properties.nama_rsk.toLowerCase().includes(self.searchText.toLowerCase()) ||
         item.properties.location.alamat.toLowerCase().includes(self.searchText.toLowerCase())
 
         return isShowing
@@ -102,6 +111,10 @@ export default {
 
 <style lang="scss" scoped>
 @import "../assets/scss/themes";
+
+.google-ads{
+  width: 90%;
+}
 
 .rs{
   padding: 0;
@@ -189,7 +202,7 @@ export default {
   }
 }
 </style>
-<style>  
+<style>
 .highlight {
   color: #0096D9;
 }

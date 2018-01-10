@@ -1,6 +1,7 @@
 var path = require('path')
 var webpack = require('webpack')
 
+const SRC = path.resolve(__dirname, "src");
 const PAGES = path.resolve(__dirname, "src/pages");
 const COMPONENTS = path.resolve(__dirname, "src/components");
 
@@ -41,6 +42,8 @@ module.exports = {
   resolve: {
     alias: {
       'vue$': 'vue/dist/vue.esm.js',
+      '@': SRC,
+      src: SRC,
 			pages: PAGES,
 			components: COMPONENTS,
     }
