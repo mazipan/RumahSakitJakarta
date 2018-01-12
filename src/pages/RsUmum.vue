@@ -116,7 +116,12 @@ export default {
 @import "../assets/scss/themes";
 
 .google-ads{
-  width: 90%;
+  width: 100%;
+  margin: .5em 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 0 1px 3px 0 rgba(32, 33, 39, 0.12);
 }
 .rs{
   padding: 0;
