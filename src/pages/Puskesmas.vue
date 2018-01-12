@@ -28,14 +28,14 @@
 
             <div class="telp" v-if="item.properties.telepon.length > 0  && item.properties.telepon[0] !== ''">
                 <i class="fa fa-phone-square" aria-hidden="true"></i>
-                <b v-for="(telepon, index) in item.properties.telepon"
+                <b v-for="telepon in item.properties.telepon" :key="telepon"
                     class="telp-item">
                   {{telepon}}
                 </b>
             </div>
             <div class="telp faximile" v-if="item.properties.faximile.length > 0 && item.properties.faximile[0] !== ''">
                 <i class="fa fa-fax" aria-hidden="true"></i>
-                <b v-for="(faximile, index) in item.properties.faximile"
+                <b v-for="faximile in item.properties.faximile" :key="faximile"
                     class="telp-item">
                   {{faximile}}
                 </b>
